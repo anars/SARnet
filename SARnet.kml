@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>SARnet Florida</name>
+    <description><![CDATA[The Statewide Amateur Radio Network (SARnet) is a network of linked UHF voice repeaters that serves the State of Florida.<br><br>DISCLAIMER : Coordinates of the repeater are not known and have been estimated.]]></description>
+    <Style id="icon-off-air-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://anars.com/SARnet/map-icons/off-air-normal.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-off-air-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>http://anars.com/SARnet/map-icons/off-air-highlight.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-off-air">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-off-air-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-off-air-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1498-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1498-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1498-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1498-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1498-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1529-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1529-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1529-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1529-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1529-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1551-BDBDBD-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1551-BDBDBD-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1551-BDBDBD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1551-BDBDBD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1551-BDBDBD-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Planenned</name>
+      <Placemark>
+        <name>NLNLEV (Chiefland)</name>
+        <description><![CDATA[Site Name : Chiefland<br>Memory Label : NLNLEV<br>Frequency : TBD<br>Tone : TBD<br>Type : Repeater (FB2)<br>County : Levy<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LN<br>Status : Off-Air<br>Notes : Site is back in the planning stage 2019.]]></description>
+        <styleUrl>#icon-1551-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            -82.8598421,29.4749621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NMNVOL (Daytona)</name>
+        <description><![CDATA[Site Name : Daytona<br>Memory Label : NMNVOL<br>Frequency : 442.875 MHz<br>Tone : 123.00 Hz<br>Type : Control Station (FX1)<br>County : Volusia<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MN<br>Status : Off-Air<br>Notes : Site should be operational by late 2019.]]></description>
+        <styleUrl>#icon-1551-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            -81.0228331,29.2108147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CMLPOL (Dundee)</name>
+        <description><![CDATA[Site Name : Dundee<br>Memory Label : CMLPOL<br>Frequency : 444.350 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Polk<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : ML<br>Status : Off-Air<br>Notes : Frequency has been selected. Site is in the early planning stages.]]></description>
+        <styleUrl>#icon-1551-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            -81.6192432,28.0225206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SMKLEE (Estero)</name>
+        <description><![CDATA[Site Name : Estero<br>Memory Label : SMKLEE<br>Frequency : TBD<br>Tone : TBD<br>Type : Repeater (FB2)<br>County : Lee<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : MK<br>Status : Off-Air<br>Notes : Site in planning stage.]]></description>
+        <styleUrl>#icon-1551-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            -81.8067523,26.438136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KMHMON (Key West)</name>
+        <description><![CDATA[Site Name : Key West<br>Memory Label : KMHMON<br>Frequency : 444.400 MHz<br>Tone : 114.80 Hz<br>Type : Repeater (FB2)<br>County : Monroe<br>Region : Keys<br>Grid Zone : 17R<br>100 Km ID : MH<br>Status : Off-Air<br>Notes : Formerly Sugarloaf. Site is in the planning stage.]]></description>
+        <styleUrl>#icon-1551-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            -81.7799871,24.5550593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNKPAL (Pahokee)</name>
+        <description><![CDATA[Site Name : Pahokee<br>Memory Label : SNKPAL<br>Frequency : TBD<br>Tone : TBD<br>Type : Repeater (FB2)<br>County : Palm Beach<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NK<br>Status : Off-Air<br>Notes : Should be operational fall 2019.]]></description>
+        <styleUrl>#icon-1551-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            -80.665335,26.8200607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WDUESC (Pensacola)</name>
+        <description><![CDATA[Site Name : Pensacola<br>Memory Label : WDUESC<br>Frequency : 444.875 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Escambia<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : DU<br>Status : Off-Air<br>Notes : Frequency has been selected. Site is in the early planning stages.]]></description>
+        <styleUrl>#icon-1551-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            -87.2169149,30.421309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Built</name>
+      <Placemark>
+        <name>SNJBRO (Andytown)</name>
+        <description><![CDATA[Site Name : Andytown<br>Memory Label : SNJBRO<br>Frequency : 442.825 MHz<br>Tone : 110.90 Hz<br>Type : Repeater (FB2)<br>County : Broward<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -80.454277,26.14502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WFTFRA (Apalachiola)</name>
+        <description><![CDATA[Site Name : Apalachiola<br>Memory Label : WFTFRA<br>Frequency : 444.400 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Franklin<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FT<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -84.9732814,29.9207004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CLMHER (Brooksville)</name>
+        <description><![CDATA[Site Name : Brooksville<br>Memory Label : CLMHER<br>Frequency : 444.825 MHz<br>Tone : 146.20 Hz<br>Type : Repeater (FB2)<br>County : Hernando<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LM<br>Status : Off-Air<br>Notes : Site is off-line.]]></description>
+        <styleUrl>#icon-off-air</styleUrl>
+        <Point>
+          <coordinates>
+            -82.3878709,28.5552719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CMLOSC (Central Turnpike)</name>
+        <description><![CDATA[Site Name : Central Turnpike<br>Memory Label : CMLOSC<br>Frequency : 444.975 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Osceola<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : ML<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -80.9834269,27.7367855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WGUGAD (Chattahoochee)</name>
+        <description><![CDATA[Site Name : Chattahoochee<br>Memory Label : WGUGAD<br>Frequency : 444.975 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Gadsden<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : GU<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -84.8429759,30.7051916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WFVWAG (Chipley)</name>
+        <description><![CDATA[Site Name : Chipley<br>Memory Label : WFVWAG<br>Frequency : 444.750 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Washington<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FV<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -85.538541,30.7818584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CMMLAK (Clermont)</name>
+        <description><![CDATA[Site Name : Clermont<br>Memory Label : CMMLAK<br>Frequency : 444.975 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Lake<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : MM<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -81.7728543,28.5494447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CNMBRE (Cocoa)</name>
+        <description><![CDATA[Site Name : Cocoa<br>Memory Label : CNMBRE<br>Frequency : 444.650 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Brevard<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : NM<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -80.7419984,28.3861159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WEVOKA (Crestview)</name>
+        <description><![CDATA[Site Name : Crestview<br>Memory Label : WEVOKA<br>Frequency : 444.900 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Okaloosa<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : EV<br>Status : On-Air<br>Notes : Frequency will be changed to avoid interference with Alabama site.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -86.5727995,30.7541808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNJBRO (Ft. Lauderdale)</name>
+        <description><![CDATA[Site Name : Ft. Lauderdale<br>Memory Label : SNJBRO<br>Frequency : 442.850 MHz<br>Tone : 110.90 Hz<br>Type : Repeater (FB2)<br>County : Broward<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -80.1373174,26.1224386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNJDAD (Florida City)</name>
+        <description><![CDATA[Site Name : Florida City<br>Memory Label : SNJDAD<br>Frequency : 442.050 MHz<br>Tone : 114.80 Hz<br>Type : Repeater (FB2)<br>County : Miami-Dade<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -80.4792237,25.4478898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SMKLEE (Ft. Myers)</name>
+        <description><![CDATA[Site Name : Ft. Myers<br>Memory Label : SMKLEE<br>Frequency : 444.225 MHz<br>Tone : 136.50 Hz<br>Type : Repeater (FB2)<br>County : Lee<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : MK<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -81.8723084,26.640628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NLNALC (Gainesville)</name>
+        <description><![CDATA[Site Name : Gainesville<br>Memory Label : NLNALC<br>Frequency : 444.925 MHz<br>Tone : 123.00 Hz<br>Type : Control Station (FX1)<br>County : Alachua<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LN<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -82.3248262,29.6516344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KNHMON (Islamorada)</name>
+        <description><![CDATA[KNHMON (Islamorada)<br>Site Name : Islamorada<br>Memory Label : KNHMON<br>Frequency : 442.850 MHz<br>Tone : 114.80 Hz<br>Type : Repeater (FB2)<br>County : Monroe<br>Region : Keys<br>Grid Zone : 17R<br>100 Km ID : NH<br>Status : Off-Air<br>Notes : Site is off-line.]]></description>
+        <styleUrl>#icon-off-air</styleUrl>
+        <Point>
+          <coordinates>
+            -80.6278364,24.9242943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NMPDUV (Jacksonville)</name>
+        <description><![CDATA[Site Name : Jacksonville<br>Memory Label : NMPDUV<br>Frequency : 444.700 MHz<br>Tone : 127.30 Hz<br>Type : Repeater (FB2)<br>County : Duval<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MP<br>Status : Off-Air<br>Notes : Site is off-line through the end of August.]]></description>
+        <styleUrl>#icon-off-air</styleUrl>
+        <Point>
+          <coordinates>
+            -81.655651,30.3321838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NLPCLM (Lake City)</name>
+        <description><![CDATA[Site Name : Lake City<br>Memory Label : NLPCLM<br>Frequency : 444.900 MHz<br>Tone : 110.90 Hz<br>Type : Control Station (FX1)<br>County : Columbia<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LP<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -82.6392899,30.1896756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CMMPOL (Lakeland)</name>
+        <description><![CDATA[Site Name : Lakeland<br>Memory Label : CMMPOL<br>Frequency : 442.275 MHz<br>Tone : 82.50 Hz<br>Type : Control Station (FX1)<br>County : Polk<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : MM<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -81.9498042,28.0394654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NLPSUW (Live Oak)</name>
+        <description><![CDATA[Site Name : Live Oak<br>Memory Label : NLPSUW<br>Frequency : 443.700 MHz<br>Tone : 110.90 Hz<br>Type : Repeater (FB2)<br>County : Suwannee<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LP<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -82.98402,30.2949457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NKPMAD (Madison)</name>
+        <description><![CDATA[Site Name : Madison<br>Memory Label : NKPMAD<br>Frequency : 444.300 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Madison<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : KP<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -83.4129254,30.4693772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNJDAD (Miami)</name>
+        <description><![CDATA[Site Name : Miami<br>Memory Label : SNJDAD<br>Frequency : 444.600 MHz<br>Tone : 167.90 Hz<br>Type : Control Station (FX1)<br>County : Miami-Dade<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -80.1917902,25.7616798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WDUSAN (Milton)</name>
+        <description><![CDATA[Site Name : Milton<br>Memory Label : WDUSAN<br>Frequency : 444.725 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Santa Rosa<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : DU<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0396881,30.6324149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SMJCLR (Naples)</name>
+        <description><![CDATA[Site Name : Naples<br>Memory Label : SMJCLR<br>Frequency : 444.950 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Collier<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : MJ<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -81.7948103,26.1420358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NLNMAO (Ocala)</name>
+        <description><![CDATA[Site Name : Ocala<br>Memory Label : NLNMAO<br>Frequency : 444.025 MHz<br>Tone : 123.00 Hz<br>Type : Repeater (FB2)<br>County : Marion<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LN<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -82.1400923,29.1871986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CMMORA (Orlando)</name>
+        <description><![CDATA[Site Name : Orlando<br>Memory Label : CMMORA<br>Frequency : 444.075 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Orange<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : MM<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -81.3792365,28.5383355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNKPAL (Palm Beach)</name>
+        <description><![CDATA[Site Name : Palm Beach<br>Memory Label : SNKPAL<br>Frequency : 443.975 MHz<br>Tone : 110.90 Hz<br>Type : Control Station (FX1)<br>County : Palm beach<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NK <br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -80.0364297,26.7056206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WFUBAY (Panama City)</name>
+        <description><![CDATA[Site Name : Panama City<br>Memory Label : WFUBAY<br>Frequency : 444.175 MHz<br>Tone : 100.00 Hz<br>Type : Control Station (FX1)<br>County : Bay<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FU<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -85.6602058,30.1588129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NKPTAY (Perry)</name>
+        <description><![CDATA[Site Name : Perry<br>Memory Label : NKPTAY<br>Frequency : 443.100 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Taylor<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : KP<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -83.5821063,30.1115662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CLLSAR (Sarasota)</name>
+        <description><![CDATA[Site Name : Sarasota<br>Memory Label : CLLSAR<br>Frequency : 444.800 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Sarasota<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LL<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -82.5306527,27.3364347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CNLBRE (Sebastian)</name>
+        <description><![CDATA[Site Name : Sebastian<br>Memory Label : CNLBRE<br>Frequency : 444.375 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Brevard<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : NL<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -80.4706078,27.816415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WGULEO (SEOC)</name>
+        <description><![CDATA[Site Name : SEOC<br>Memory Label : WGULEO<br>Frequency : 443.500 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Leon<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : GU<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2326953,30.3864928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CLLPIN (Skyway Bridge)</name>
+        <description><![CDATA[Site Name : Skyway Bridge<br>Memory Label : CLLPIN<br>Frequency : 442.250 MHz<br>Tone : 146.20 Hz<br>Type : Repeater (FB2)<br>County : Pinellas<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LL<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -82.6558418,27.6207079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NMPSTJ (St. Augustine)</name>
+        <description><![CDATA[Site Name : St. Augustine<br>Memory Label : NMPSTJ<br>Frequency : 442.800 MHz<br>Tone : 127.30 Hz<br>Type : Repeater (FB2)<br>County : St. Johns<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MP<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -81.3124341,29.9012437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CNLMRT (Stuart)</name>
+        <description><![CDATA[Site Name : Stuart<br>Memory Label : CNLMRT<br>Frequency : 444.150 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Martin<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : NL<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2528257,27.197548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WGULEO (Tallahassee)</name>
+        <description><![CDATA[Site Name : Tallahassee<br>Memory Label : WGULEO<br>Frequency : 442.100 MHz<br>Tone : 94.80 Hz<br>Type : Control Station (FX1)<br>County : Leon<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : GU<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2807329,30.4382559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CLLHIL (Tampa)</name>
+        <description><![CDATA[Site Name : Tampa<br>Memory Label : CLLHIL<br>Frequency : 442.850 MHz<br>Tone : 146.20 Hz<br>Type : Repeater (FB2)<br>County : Hillsborough<br>Region : Central<br>Grid Zone : 17R <br>100 Km ID : LL<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -82.4571776,27.950575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NMPNAS (Yulee)</name>
+        <description><![CDATA[Site Name : Yulee<br>Memory Label : NMPNAS<br>Frequency : 442.900 MHz<br>Tone : 127.30 Hz<br>Type : Repeater (FB2)<br>County : Nassau<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MP<br>Status : On-Air<br>Notes : Site is operational.]]></description>
+        <styleUrl>#icon-1529-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -81.6064866,30.6319034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
