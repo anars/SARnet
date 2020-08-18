@@ -70,7 +70,7 @@ for line in text.splitlines():
 			result[labels[line[0]] + "_style"] = "onair"
 		result[labels[line[0]] + "_update"] = last_update
 
-file = open("template.csv", "r")
+file = open("templates/template.csv", "r")
 text = file.read()
 file.close()
 
