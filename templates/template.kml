@@ -99,6 +99,8 @@
         <styleUrl>#icon-planned-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Folder>
+      <name>Planenned</name>
       <Placemark>
         <name>NLNLEV (Chiefland)</name>
         <description><![CDATA[Site Name : Chiefland<br>Memory Label : NLNLEV<br>Frequency : TBD<br>Tone : TBD<br>Type : Repeater (FB2)<br>County : Levy<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LN<br>Built : No<br>Status : $SNJBRO_status<br>NLNLEV_status<br>Notes : $NLNLEV_notes]]></description>
@@ -169,6 +171,9 @@
           </coordinates>
         </Point>
       </Placemark>
+    </Folder>
+    <Folder>
+      <name>Built</name>
       <Placemark>
         <name>SNJBRO (Andytown)</name>
         <description><![CDATA[Site Name : Andytown<br>Memory Label : SNJBRO<br>Frequency : 442.825 MHz<br>Tone : 110.90 Hz<br>Type : Repeater (FB2)<br>County : Broward<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Built : Yes<br>Status : $SNJBRO_status<br>SNJBRO_status<br>Notes : $SNJBRO_notes]]></description>
@@ -529,5 +534,6 @@
           </coordinates>
         </Point>
       </Placemark>
+    </Folder>
   </Document>
 </kml>
