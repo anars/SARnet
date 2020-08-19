@@ -1,3 +1,4 @@
+import sys
 import re
 import requests
 from io import StringIO
@@ -34,10 +35,10 @@ for key in labels:
 	if label_regex:
 		label_regex = label_regex + "|"
 	label_regex = label_regex + key.split(" (")[0]
-	
+
 request = requests.get("https://www.sarnetfl.com/system-status.html")
 
-last_update = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%S") + "Z"
+last_update = sys.argv[1]
 
 text = strip_tags(request.text)
 text = re.sub(r"(" + label_regex + ")", r"\n\1", text)
@@ -77,5 +78,3 @@ file.close()
 file = open("SARnet.csv", "wt")
 file.write(Template(text).safe_substitute(result))
 file.close()
-
-print(Template(text).safe_substitute(result))
