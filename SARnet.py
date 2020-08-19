@@ -74,7 +74,13 @@ for line in text.splitlines():
 file = open("templates/template.csv", "r")
 text = file.read()
 file.close()
-
 file = open("SARnet.csv", "wt")
+file.write(Template(text).safe_substitute(result))
+file.close()
+
+file = open("templates/template.kml", "r")
+text = file.read()
+file.close()
+file = open("SARnet.kml", "wt")
 file.write(Template(text).safe_substitute(result))
 file.close()
