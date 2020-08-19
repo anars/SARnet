@@ -1,0 +1,45 @@
+Last Update : Wednesday, August 19, 2020
+
+Andytown (FB2) : Site is operational.
+Apalachicola (FB2) : Site is operational.
+Brooksville (FB2) : Site is offline.
+Central Turnpike (FB2) : Site is operational.
+Chattahoochee (FB2) : Site is operational.
+Chiefland (FB2) : Site is back in the planning stage 2019.
+Chipley (FB2) : Site is operational.
+Clermont (FB2) : Site is operational.
+Cocoa (FB2) : Site is operational.
+Crestview (FB2) : Site is operational. Frequency will be changed to avoid interference with Alabama site.
+Daytona (FX1) : Site should be operational by late 2019.
+Dundee (FB2) : Frequency has been selected. Site is in the early planning stages.
+Estero (FB2) : Site in planning stage.
+Ft. Lauderdale (FB2) : Site is operational.
+Florida City (FB2) : Site is operational.
+Ft. Myers (FB2) : Site is operational.
+Gainesville (FX1) : Site is operational.
+Islamorada (FB2) : Site is offline.
+Jacksonville (FB2) : Site is offline through the end of August.
+Key West (FB2) : Formerly Sugarloaf. Site is in the planning stage.
+Lake City (FX1) : Site is operational.
+Lakeland (FX1) : Site is operational.
+Live Oak (FB2) : Site is operational.
+Madison (FB2) : Site is operational.
+Miami (FX1) : Site is operational.
+Milton (FB2) : Site is operational.
+Naples (FB2) : Site is operational.
+Ocala (FB2) : Site is operational.
+Orlando (FB2) : Site is operational.
+Pahokee (FB2) : Should be operational fall 2019.
+Palm Beach (FX1) : Site is operational.
+Panama City (FX1) : Site is operational.
+Pensacola (FB2) : Frequency selected. Site is in early planning stage.
+Perry (FB2) : Site is operational.
+Sarasota (FB2) : Site is operational.
+Sebastian (FB2) : Site is operational.
+State Emergency Operations Center (SEOC), ESF2 (FB2) : Site is operational.
+Skyway Bridge (FB2) : Site is operational.
+St. Augustine (FB2) : Site is operational.
+Stuart (FB2) : Site is operational.
+Tallahassee (FX1) : Site is operational.
+Tampa (FB2) : Site is operational.
+Yulee (FB2) : Site is operational.

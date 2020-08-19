@@ -6,6 +6,8 @@ from html.parser import HTMLParser
 import datetime
 from string import Template
 
+print("hello")
+
 class MLStripper(HTMLParser):
     def __init__(self):
         super().__init__()
