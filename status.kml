@@ -113,7 +113,7 @@
       </Placemark>
       <Placemark>
         <name>NMNVOL (Daytona)</name>
-        <description><![CDATA[Site Name : Daytona<br>Memory Label : NMNVOL<br>Frequency : 442.875 MHz<br>Tone : 123.00 Hz<br>Type : Control Station (FX1)<br>County : Volusia<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MN<br>Built : No<br>Status : On-Air<br>Notes : Site should be operational by late 2019.<br>Last Update : Monday, August 24, 2020]]></description>
+        <description><![CDATA[Site Name : Daytona<br>Memory Label : NMNVOL<br>Frequency : 442.875 MHz<br>Tone : 123.00 Hz<br>Type : Control Station (FX1)<br>County : Volusia<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MN<br>Built : No<br>Status : On-Air<br>Notes : Site is pending.<br>Last Update : Monday, August 24, 2020]]></description>
         <styleUrl>#icon-planned</styleUrl>
         <Point>
           <coordinates>
@@ -426,8 +426,8 @@
       </Placemark>
       <Placemark>
         <name>WFUBAY (Panama City)</name>
-        <description><![CDATA[Site Name : Panama City<br>Memory Label : WFUBAY<br>Frequency : 444.175 MHz<br>Tone : 100.00 Hz<br>Type : Control Station (FX1)<br>County : Bay<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 24, 2020]]></description>
-        <styleUrl>#icon-onair</styleUrl>
+        <description><![CDATA[Site Name : Panama City<br>Memory Label : WFUBAY<br>Frequency : 444.175 MHz<br>Tone : 100.00 Hz<br>Type : Control Station (FX1)<br>County : Bay<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline.<br>Last Update : Monday, August 24, 2020]]></description>
+        <styleUrl>#icon-offair</styleUrl>
         <Point>
           <coordinates>
             -85.6602058,30.1588129,0
@@ -446,8 +446,8 @@
       </Placemark>
       <Placemark>
         <name>CLLSAR (Sarasota)</name>
-        <description><![CDATA[Site Name : Sarasota<br>Memory Label : CLLSAR<br>Frequency : 444.800 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Sarasota<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 24, 2020]]></description>
-        <styleUrl>#icon-onair</styleUrl>
+        <description><![CDATA[Site Name : Sarasota<br>Memory Label : CLLSAR<br>Frequency : 444.800 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Sarasota<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline.<br>Last Update : Monday, August 24, 2020]]></description>
+        <styleUrl>#icon-offair</styleUrl>
         <Point>
           <coordinates>
             -82.5306527,27.3364347,0

@@ -10,7 +10,7 @@ Chipley (FB2) : Site is operational.
 Clermont (FB2) : Site is operational.
 Cocoa (FB2) : Site is operational.
 Crestview (FB2) : Site is operational. Frequency will be changed to avoid interference with Alabama site.
-Daytona (FX1) : Site should be operational by late 2019.
+Daytona (FX1) : Site is pending.
 Dundee (FB2) : Frequency has been selected. Site is in the early planning stages.
 Estero (FB2) : Site in planning stage.
 Ft. Lauderdale (FB2) : Site is operational.
@@ -29,12 +29,12 @@ Milton (FB2) : Site is operational.
 Naples (FB2) : Site is operational.
 Ocala (FB2) : Site is operational.
 Orlando (FB2) : Site is operational.
-Pahokee (FB2) : Should be operational fall 2019.
+Pahokee (FB2) : Site is still in planning stage..
 Palm Beach (FX1) : Site is operational.
-Panama City (FX1) : Site is operational.
+Panama City (FX1) : Site is offline.
 Pensacola (FB2) : Frequency selected. Site is in early planning stage.
 Perry (FB2) : Site is operational.
-Sarasota (FB2) : Site is operational.
+Sarasota (FB2) : Site is offline.
 Sebastian (FB2) : Site is operational.
 State Emergency Operations Center (SEOC), ESF2 (FB2) : Site is operational.
 Skyway Bridge (FB2) : Site is operational.
