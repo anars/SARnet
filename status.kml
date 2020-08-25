@@ -426,8 +426,8 @@
       </Placemark>
       <Placemark>
         <name>WFUBAY (Panama City)</name>
-        <description><![CDATA[Site Name : Panama City<br>Memory Label : WFUBAY<br>Frequency : 444.175 MHz<br>Tone : 100.00 Hz<br>Type : Control Station (FX1)<br>County : Bay<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline.<br>Last Update : Tuesday, August 25, 2020]]></description>
-        <styleUrl>#icon-offair</styleUrl>
+        <description><![CDATA[Site Name : Panama City<br>Memory Label : WFUBAY<br>Frequency : 444.175 MHz<br>Tone : 100.00 Hz<br>Type : Control Station (FX1)<br>County : Bay<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, August 25, 2020]]></description>
+        <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
             -85.6602058,30.1588129,0

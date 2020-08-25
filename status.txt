@@ -31,7 +31,7 @@ Ocala (FB2) : Site is operational.
 Orlando (FB2) : Site is operational.
 Pahokee (FB2) : Site is still in planning stage..
 Palm Beach (FX1) : Site is operational.
-Panama City (FX1) : Site is offline.
+Panama City (FX1) : Site is operational.
 Pensacola (FB2) : Frequency selected. Site is in early planning stage.
 Perry (FB2) : Site is operational.
 Sarasota (FB2) : Site is offline.
