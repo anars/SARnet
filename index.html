@@ -5,25 +5,50 @@
   <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
   <meta charset="utf-8">
   <title>SARnet Florida Status Map</title>
-  <script src="js/leaflet.js" crossorigin=""></script>
+  <link rel="stylesheet" href="css/leaflet.css" />
+  <script src="js/leaflet.js"></script>
+  <style>
+    body {
+      padding: 0;
+      margin: 0;
+    }
 
+    html,
+    body,
+    #map {
+      height: 100%;
+      width: 100%;
+    }
+  </style>
 </head>
 
 <body>
   <div id="map" style="width: 100%; height: 100%;"></div>
 </body>
 <script>
-  var mymap = L.map('map').setView([51.505, -0.09], 13);
+  // -88.110352,24.236947,-79.552002,31.765537
+  var maxBounds = L.latLngBounds(
+    L.latLng(23, -78), //Southwest
+    L.latLng(32, -90) //Northeast
+  );
+  // [28.062286, -83.825684]
+  var mymap = L.map("map");
   L.tileLayer(
     'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+      minZoom: 6,
       maxZoom: 18,
       attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
         '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
         'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
       id: 'mapbox/streets-v11',
       tileSize: 512,
-      zoomOffset: -1
+      zoomOffset: -1,
+      center: [0, 0],
+      zoom: 0,
+      maxBounds: maxBounds
     }).addTo(mymap);
+    mymap.setMaxBounds(maxBounds);
+    mymap.fitBounds(maxBounds);
 </script>
 
 </html>
