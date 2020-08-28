@@ -45,7 +45,7 @@ window.onload = function () {
     function onLocationFound(e) {
         var radius = e.accuracy / 2;
         L.marker(e.latlng).addTo(map)
-            .bindPopup("You are within " + radius + " meters from this point").openPopup();
+            .bindPopup("You are within " + (radius | 1) + " meters from this point").openPopup();
         L.circle(e.latlng, radius).addTo(map);
     }
 
