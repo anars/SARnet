@@ -8,7 +8,7 @@ window.onload = function () {
     const map = L.map("map");
     L.tileLayer(
         "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW5hcnMiLCJhIjoiY2tlZGowaHY1MDFldTJ6b3oyeW9pNTN2bSJ9.jIFUKXstg5M4vuD6_KuNyg", {
-            minZoom: 6,
+            minZoom: 7,
             maxZoom: 18,
             attribution: "Map data, Imagery &copy; <a href=\"https://www.openstreetmap.org\">OpenStreetMap</a>, <a href=\"https://www.mapbox.com\">Mapbox</a> and contributors. <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>",
             id: "mapbox/outdoors-v11",
@@ -36,11 +36,9 @@ window.onload = function () {
     // Layers in this pane are non-interactive and do not obscure mouse/touch events
     map.getPane("labels").style.pointerEvents = "none";
 
-    geojson = L.geoJson(floridaCounties, {
+    L.geoJson(floridaCounties, {
         style: polystyle
-    }).addTo(map);
-
-    geojson.eachLayer(function (layer) {
+    }).addTo(map).eachLayer(function (layer) {
         layer.bindPopup(layer.feature.properties.name + " County");
     });
 
@@ -59,8 +57,8 @@ window.onload = function () {
     map.on("locationfound", onLocationFound);
     map.on("locationerror", onLocationError);
 
-    map.locate({
-        setView: true,
-        maxZoom: 16
-    });
+    // map.locate({
+    //     setView: true,
+    //     maxZoom: 16
+    // });
 };
