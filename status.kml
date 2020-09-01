@@ -103,7 +103,7 @@
       <name>Planenned</name>
       <Placemark>
         <name>NLNLEV (Chiefland)</name>
-        <description><![CDATA[Site Name : Chiefland<br>Memory Label : NLNLEV<br>Frequency : TBD<br>Tone : TBD<br>Type : Repeater (FB2)<br>County : Levy<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LN<br>Built : No<br>Status : On-Air<br>Notes : Site is back in the planning stage 2019.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Chiefland<br>Memory Label : NLNLEV<br>Frequency : TBD<br>Tone : TBD<br>Type : Repeater (FB2)<br>County : Levy<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LN<br>Built : No<br>Status : On-Air<br>Notes : Site is back in the planning stage 2019.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-planned</styleUrl>
         <Point>
           <coordinates>
@@ -113,7 +113,7 @@
       </Placemark>
       <Placemark>
         <name>NMNVOL (Daytona)</name>
-        <description><![CDATA[Site Name : Daytona<br>Memory Label : NMNVOL<br>Frequency : 442.875 MHz<br>Tone : 123.00 Hz<br>Type : Control Station (FX1)<br>County : Volusia<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MN<br>Built : No<br>Status : On-Air<br>Notes : Site is pending.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Daytona<br>Memory Label : NMNVOL<br>Frequency : 442.875 MHz<br>Tone : 123.00 Hz<br>Type : Control Station (FX1)<br>County : Volusia<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MN<br>Built : No<br>Status : On-Air<br>Notes : Site is pending.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-planned</styleUrl>
         <Point>
           <coordinates>
@@ -123,7 +123,7 @@
       </Placemark>
       <Placemark>
         <name>CMLPOL (Dundee)</name>
-        <description><![CDATA[Site Name : Dundee<br>Memory Label : CMLPOL<br>Frequency : 444.350 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Polk<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : ML<br>Built : No<br>Status : On-Air<br>Notes : Frequency has been selected. Site is in the early planning stages.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Dundee<br>Memory Label : CMLPOL<br>Frequency : 444.350 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Polk<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : ML<br>Built : No<br>Status : On-Air<br>Notes : Frequency has been selected. Site is in the early planning stages.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-planned</styleUrl>
         <Point>
           <coordinates>
@@ -133,7 +133,7 @@
       </Placemark>
       <Placemark>
         <name>SMKLEE (Estero)</name>
-        <description><![CDATA[Site Name : Estero<br>Memory Label : SMKLEE<br>Frequency : TBD<br>Tone : TBD<br>Type : Repeater (FB2)<br>County : Lee<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : MK<br>Built : No<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Estero<br>Memory Label : SMKLEE<br>Frequency : TBD<br>Tone : TBD<br>Type : Repeater (FB2)<br>County : Lee<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : MK<br>Built : No<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -143,7 +143,7 @@
       </Placemark>
       <Placemark>
         <name>KMHMON (Key West)</name>
-        <description><![CDATA[Site Name : Key West<br>Memory Label : KMHMON<br>Frequency : 444.400 MHz<br>Tone : 114.80 Hz<br>Type : Repeater (FB2)<br>County : Monroe<br>Region : Keys<br>Grid Zone : 17R<br>100 Km ID : MH<br>Built : No<br>Status : On-Air<br>Notes : Formerly Sugarloaf. Site is in the planning stage.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Key West<br>Memory Label : KMHMON<br>Frequency : 444.400 MHz<br>Tone : 114.80 Hz<br>Type : Repeater (FB2)<br>County : Monroe<br>Region : Keys<br>Grid Zone : 17R<br>100 Km ID : MH<br>Built : No<br>Status : On-Air<br>Notes : Formerly Sugarloaf. Site is in the planning stage.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-planned</styleUrl>
         <Point>
           <coordinates>
@@ -153,7 +153,7 @@
       </Placemark>
       <Placemark>
         <name>SNKPAL (Pahokee)</name>
-        <description><![CDATA[Site Name : Pahokee<br>Memory Label : SNKPAL<br>Frequency : TBD<br>Tone : TBD<br>Type : Repeater (FB2)<br>County : Palm Beach<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NK<br>Built : No<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Pahokee<br>Memory Label : SNKPAL<br>Frequency : TBD<br>Tone : TBD<br>Type : Repeater (FB2)<br>County : Palm Beach<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NK<br>Built : No<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -163,7 +163,7 @@
       </Placemark>
       <Placemark>
         <name>WDUESC (Pensacola)</name>
-        <description><![CDATA[Site Name : Pensacola<br>Memory Label : WDUESC<br>Frequency : 444.875 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Escambia<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : DU<br>Built : No<br>Status : On-Air<br>Notes : Frequency selected. Site is in early planning stage.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Pensacola<br>Memory Label : WDUESC<br>Frequency : 444.875 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Escambia<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : DU<br>Built : No<br>Status : On-Air<br>Notes : Frequency selected. Site is in early planning stage.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-planned</styleUrl>
         <Point>
           <coordinates>
@@ -176,7 +176,7 @@
       <name>Built</name>
       <Placemark>
         <name>SNJBRO (Andytown)</name>
-        <description><![CDATA[Site Name : Andytown<br>Memory Label : SNJBRO<br>Frequency : 442.825 MHz<br>Tone : 110.90 Hz<br>Type : Repeater (FB2)<br>County : Broward<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Andytown<br>Memory Label : SNJBRO<br>Frequency : 442.825 MHz<br>Tone : 110.90 Hz<br>Type : Repeater (FB2)<br>County : Broward<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -186,7 +186,7 @@
       </Placemark>
       <Placemark>
         <name>WFTFRA (Apalachiola)</name>
-        <description><![CDATA[Site Name : Apalachiola<br>Memory Label : WFTFRA<br>Frequency : 444.400 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Franklin<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FT<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Apalachiola<br>Memory Label : WFTFRA<br>Frequency : 444.400 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Franklin<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FT<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -196,7 +196,7 @@
       </Placemark>
       <Placemark>
         <name>CLMHER (Brooksville)</name>
-        <description><![CDATA[Site Name : Brooksville<br>Memory Label : CLMHER<br>Frequency : 444.825 MHz<br>Tone : 146.20 Hz<br>Type : Repeater (FB2)<br>County : Hernando<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Brooksville<br>Memory Label : CLMHER<br>Frequency : 444.825 MHz<br>Tone : 146.20 Hz<br>Type : Repeater (FB2)<br>County : Hernando<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-offair</styleUrl>
         <Point>
           <coordinates>
@@ -206,7 +206,7 @@
       </Placemark>
       <Placemark>
         <name>CMLOSC (Central Turnpike)</name>
-        <description><![CDATA[Site Name : Central Turnpike<br>Memory Label : CMLOSC<br>Frequency : 444.975 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Osceola<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : ML<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Central Turnpike<br>Memory Label : CMLOSC<br>Frequency : 444.975 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Osceola<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : ML<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -216,7 +216,7 @@
       </Placemark>
       <Placemark>
         <name>WGUGAD (Chattahoochee)</name>
-        <description><![CDATA[Site Name : Chattahoochee<br>Memory Label : WGUGAD<br>Frequency : 444.975 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Gadsden<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : GU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Chattahoochee<br>Memory Label : WGUGAD<br>Frequency : 444.975 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Gadsden<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : GU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -226,7 +226,7 @@
       </Placemark>
       <Placemark>
         <name>WFVWAG (Chipley)</name>
-        <description><![CDATA[Site Name : Chipley<br>Memory Label : WFVWAG<br>Frequency : 444.750 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Washington<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FV<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Chipley<br>Memory Label : WFVWAG<br>Frequency : 444.750 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Washington<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FV<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -236,7 +236,7 @@
       </Placemark>
       <Placemark>
         <name>CMMLAK (Clermont)</name>
-        <description><![CDATA[Site Name : Clermont<br>Memory Label : CMMLAK<br>Frequency : 444.975 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Lake<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : MM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Clermont<br>Memory Label : CMMLAK<br>Frequency : 444.975 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Lake<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : MM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -246,7 +246,7 @@
       </Placemark>
       <Placemark>
         <name>CNMBRE (Cocoa)</name>
-        <description><![CDATA[Site Name : Cocoa<br>Memory Label : CNMBRE<br>Frequency : 444.650 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Brevard<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : NM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Cocoa<br>Memory Label : CNMBRE<br>Frequency : 444.650 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Brevard<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : NM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -256,7 +256,7 @@
       </Placemark>
       <Placemark>
         <name>WEVOKA (Crestview)</name>
-        <description><![CDATA[Site Name : Crestview<br>Memory Label : WEVOKA<br>Frequency : 444.900 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Okaloosa<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : EV<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational. Frequency will be changed to avoid interference with Alabama site.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Crestview<br>Memory Label : WEVOKA<br>Frequency : 444.900 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Okaloosa<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : EV<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational. Frequency will be changed to avoid interference with Alabama site.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -266,7 +266,7 @@
       </Placemark>
       <Placemark>
         <name>SNJBRO (Ft. Lauderdale)</name>
-        <description><![CDATA[Site Name : Ft. Lauderdale<br>Memory Label : SNJBRO<br>Frequency : 442.850 MHz<br>Tone : 110.90 Hz<br>Type : Repeater (FB2)<br>County : Broward<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Ft. Lauderdale<br>Memory Label : SNJBRO<br>Frequency : 442.850 MHz<br>Tone : 110.90 Hz<br>Type : Repeater (FB2)<br>County : Broward<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -276,7 +276,7 @@
       </Placemark>
       <Placemark>
         <name>SNJDAD (Florida City)</name>
-        <description><![CDATA[Site Name : Florida City<br>Memory Label : SNJDAD<br>Frequency : 442.050 MHz<br>Tone : 114.80 Hz<br>Type : Repeater (FB2)<br>County : Miami-Dade<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Florida City<br>Memory Label : SNJDAD<br>Frequency : 442.050 MHz<br>Tone : 114.80 Hz<br>Type : Repeater (FB2)<br>County : Miami-Dade<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -286,7 +286,7 @@
       </Placemark>
       <Placemark>
         <name>SMKLEE (Ft. Myers)</name>
-        <description><![CDATA[Site Name : Ft. Myers<br>Memory Label : SMKLEE<br>Frequency : 444.225 MHz<br>Tone : 136.50 Hz<br>Type : Repeater (FB2)<br>County : Lee<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : MK<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Ft. Myers<br>Memory Label : SMKLEE<br>Frequency : 444.225 MHz<br>Tone : 136.50 Hz<br>Type : Repeater (FB2)<br>County : Lee<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : MK<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -296,7 +296,7 @@
       </Placemark>
       <Placemark>
         <name>NLNALC (Gainesville)</name>
-        <description><![CDATA[Site Name : Gainesville<br>Memory Label : NLNALC<br>Frequency : 444.925 MHz<br>Tone : 123.00 Hz<br>Type : Control Station (FX1)<br>County : Alachua<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LN<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Gainesville<br>Memory Label : NLNALC<br>Frequency : 444.925 MHz<br>Tone : 123.00 Hz<br>Type : Control Station (FX1)<br>County : Alachua<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LN<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -306,7 +306,7 @@
       </Placemark>
       <Placemark>
         <name>KNHMON (Islamorada)</name>
-        <description><![CDATA[KNHMON (Islamorada)<br>Site Name : Islamorada<br>Memory Label : KNHMON<br>Frequency : 442.850 MHz<br>Tone : 114.80 Hz<br>Type : Repeater (FB2)<br>County : Monroe<br>Region : Keys<br>Grid Zone : 17R<br>100 Km ID : NH<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[KNHMON (Islamorada)<br>Site Name : Islamorada<br>Memory Label : KNHMON<br>Frequency : 442.850 MHz<br>Tone : 114.80 Hz<br>Type : Repeater (FB2)<br>County : Monroe<br>Region : Keys<br>Grid Zone : 17R<br>100 Km ID : NH<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-offair</styleUrl>
         <Point>
           <coordinates>
@@ -316,7 +316,7 @@
       </Placemark>
       <Placemark>
         <name>NMPDUV (Jacksonville)</name>
-        <description><![CDATA[Site Name : Jacksonville<br>Memory Label : NMPDUV<br>Frequency : 444.700 MHz<br>Tone : 127.30 Hz<br>Type : Repeater (FB2)<br>County : Duval<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline through the end of August.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Jacksonville<br>Memory Label : NMPDUV<br>Frequency : 444.700 MHz<br>Tone : 127.30 Hz<br>Type : Repeater (FB2)<br>County : Duval<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline through the end of August.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-offair</styleUrl>
         <Point>
           <coordinates>
@@ -326,7 +326,7 @@
       </Placemark>
       <Placemark>
         <name>NLPCLM (Lake City)</name>
-        <description><![CDATA[Site Name : Lake City<br>Memory Label : NLPCLM<br>Frequency : 444.900 MHz<br>Tone : 110.90 Hz<br>Type : Control Station (FX1)<br>County : Columbia<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Lake City<br>Memory Label : NLPCLM<br>Frequency : 444.900 MHz<br>Tone : 110.90 Hz<br>Type : Control Station (FX1)<br>County : Columbia<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -336,7 +336,7 @@
       </Placemark>
       <Placemark>
         <name>CMMPOL (Lakeland)</name>
-        <description><![CDATA[Site Name : Lakeland<br>Memory Label : CMMPOL<br>Frequency : 442.275 MHz<br>Tone : 82.50 Hz<br>Type : Control Station (FX1)<br>County : Polk<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : MM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Lakeland<br>Memory Label : CMMPOL<br>Frequency : 442.275 MHz<br>Tone : 82.50 Hz<br>Type : Control Station (FX1)<br>County : Polk<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : MM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -346,7 +346,7 @@
       </Placemark>
       <Placemark>
         <name>NLPSUW (Live Oak)</name>
-        <description><![CDATA[Site Name : Live Oak<br>Memory Label : NLPSUW<br>Frequency : 443.700 MHz<br>Tone : 110.90 Hz<br>Type : Repeater (FB2)<br>County : Suwannee<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Live Oak<br>Memory Label : NLPSUW<br>Frequency : 443.700 MHz<br>Tone : 110.90 Hz<br>Type : Repeater (FB2)<br>County : Suwannee<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -356,7 +356,7 @@
       </Placemark>
       <Placemark>
         <name>NKPMAD (Madison)</name>
-        <description><![CDATA[Site Name : Madison<br>Memory Label : NKPMAD<br>Frequency : 444.300 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Madison<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : KP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Madison<br>Memory Label : NKPMAD<br>Frequency : 444.300 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Madison<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : KP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -366,7 +366,7 @@
       </Placemark>
       <Placemark>
         <name>SNJDAD (Miami)</name>
-        <description><![CDATA[Site Name : Miami<br>Memory Label : SNJDAD<br>Frequency : 444.600 MHz<br>Tone : 167.90 Hz<br>Type : Control Station (FX1)<br>County : Miami-Dade<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Miami<br>Memory Label : SNJDAD<br>Frequency : 444.600 MHz<br>Tone : 167.90 Hz<br>Type : Control Station (FX1)<br>County : Miami-Dade<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NJ<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -376,7 +376,7 @@
       </Placemark>
       <Placemark>
         <name>WDUSAN (Milton)</name>
-        <description><![CDATA[Site Name : Milton<br>Memory Label : WDUSAN<br>Frequency : 444.725 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Santa Rosa<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : DU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Milton<br>Memory Label : WDUSAN<br>Frequency : 444.725 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Santa Rosa<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : DU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -386,7 +386,7 @@
       </Placemark>
       <Placemark>
         <name>SMJCLR (Naples)</name>
-        <description><![CDATA[Site Name : Naples<br>Memory Label : SMJCLR<br>Frequency : 444.950 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Collier<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : MJ<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Naples<br>Memory Label : SMJCLR<br>Frequency : 444.950 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Collier<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : MJ<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -396,7 +396,7 @@
       </Placemark>
       <Placemark>
         <name>NLNMAO (Ocala)</name>
-        <description><![CDATA[Site Name : Ocala<br>Memory Label : NLNMAO<br>Frequency : 444.025 MHz<br>Tone : 123.00 Hz<br>Type : Repeater (FB2)<br>County : Marion<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LN<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Ocala<br>Memory Label : NLNMAO<br>Frequency : 444.025 MHz<br>Tone : 123.00 Hz<br>Type : Repeater (FB2)<br>County : Marion<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : LN<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -406,7 +406,7 @@
       </Placemark>
       <Placemark>
         <name>CMMORA (Orlando)</name>
-        <description><![CDATA[Site Name : Orlando<br>Memory Label : CMMORA<br>Frequency : 444.075 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Orange<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : MM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Orlando<br>Memory Label : CMMORA<br>Frequency : 444.075 MHz<br>Tone : 103.50 Hz<br>Type : Repeater (FB2)<br>County : Orange<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : MM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -416,7 +416,7 @@
       </Placemark>
       <Placemark>
         <name>SNKPAL (Palm Beach)</name>
-        <description><![CDATA[Site Name : Palm Beach<br>Memory Label : SNKPAL<br>Frequency : 443.975 MHz<br>Tone : 110.90 Hz<br>Type : Control Station (FX1)<br>County : Palm beach<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NK <br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Palm Beach<br>Memory Label : SNKPAL<br>Frequency : 443.975 MHz<br>Tone : 110.90 Hz<br>Type : Control Station (FX1)<br>County : Palm beach<br>Region : South<br>Grid Zone : 17R<br>100 Km ID : NK <br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -426,7 +426,7 @@
       </Placemark>
       <Placemark>
         <name>WFUBAY (Panama City)</name>
-        <description><![CDATA[Site Name : Panama City<br>Memory Label : WFUBAY<br>Frequency : 444.175 MHz<br>Tone : 100.00 Hz<br>Type : Control Station (FX1)<br>County : Bay<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Panama City<br>Memory Label : WFUBAY<br>Frequency : 444.175 MHz<br>Tone : 100.00 Hz<br>Type : Control Station (FX1)<br>County : Bay<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : FU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -436,7 +436,7 @@
       </Placemark>
       <Placemark>
         <name>NKPTAY (Perry)</name>
-        <description><![CDATA[Site Name : Perry<br>Memory Label : NKPTAY<br>Frequency : 443.100 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Taylor<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : KP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Perry<br>Memory Label : NKPTAY<br>Frequency : 443.100 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Taylor<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : KP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -446,7 +446,7 @@
       </Placemark>
       <Placemark>
         <name>CLLSAR (Sarasota)</name>
-        <description><![CDATA[Site Name : Sarasota<br>Memory Label : CLLSAR<br>Frequency : 444.800 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Sarasota<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Sarasota<br>Memory Label : CLLSAR<br>Frequency : 444.800 MHz<br>Tone : 100.00 Hz<br>Type : Repeater (FB2)<br>County : Sarasota<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-offair</styleUrl>
         <Point>
           <coordinates>
@@ -456,7 +456,7 @@
       </Placemark>
       <Placemark>
         <name>CNLBRE (Sebastian)</name>
-        <description><![CDATA[Site Name : Sebastian<br>Memory Label : CNLBRE<br>Frequency : 444.375 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Brevard<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : NL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Sebastian<br>Memory Label : CNLBRE<br>Frequency : 444.375 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Brevard<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : NL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -466,7 +466,7 @@
       </Placemark>
       <Placemark>
         <name>WGULEO (SEOC)</name>
-        <description><![CDATA[Site Name : SEOC<br>Memory Label : WGULEO<br>Frequency : 443.500 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Leon<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : GU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : SEOC<br>Memory Label : WGULEO<br>Frequency : 443.500 MHz<br>Tone : 94.80 Hz<br>Type : Repeater (FB2)<br>County : Leon<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : GU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -476,7 +476,7 @@
       </Placemark>
       <Placemark>
         <name>CLLPIN (Skyway Bridge)</name>
-        <description><![CDATA[Site Name : Skyway Bridge<br>Memory Label : CLLPIN<br>Frequency : 442.250 MHz<br>Tone : 146.20 Hz<br>Type : Repeater (FB2)<br>County : Pinellas<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Skyway Bridge<br>Memory Label : CLLPIN<br>Frequency : 442.250 MHz<br>Tone : 146.20 Hz<br>Type : Repeater (FB2)<br>County : Pinellas<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -486,7 +486,7 @@
       </Placemark>
       <Placemark>
         <name>NMPSTJ (St. Augustine)</name>
-        <description><![CDATA[Site Name : St. Augustine<br>Memory Label : NMPSTJ<br>Frequency : 442.800 MHz<br>Tone : 127.30 Hz<br>Type : Repeater (FB2)<br>County : St. Johns<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : St. Augustine<br>Memory Label : NMPSTJ<br>Frequency : 442.800 MHz<br>Tone : 127.30 Hz<br>Type : Repeater (FB2)<br>County : St. Johns<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -496,7 +496,7 @@
       </Placemark>
       <Placemark>
         <name>CNLMRT (Stuart)</name>
-        <description><![CDATA[Site Name : Stuart<br>Memory Label : CNLMRT<br>Frequency : 444.150 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Martin<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : NL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Stuart<br>Memory Label : CNLMRT<br>Frequency : 444.150 MHz<br>Tone : 107.20 Hz<br>Type : Repeater (FB2)<br>County : Martin<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : NL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -506,7 +506,7 @@
       </Placemark>
       <Placemark>
         <name>WGULEO (Tallahassee)</name>
-        <description><![CDATA[Site Name : Tallahassee<br>Memory Label : WGULEO<br>Frequency : 442.100 MHz<br>Tone : 94.80 Hz<br>Type : Control Station (FX1)<br>County : Leon<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : GU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Tallahassee<br>Memory Label : WGULEO<br>Frequency : 442.100 MHz<br>Tone : 94.80 Hz<br>Type : Control Station (FX1)<br>County : Leon<br>Region : West<br>Grid Zone : 16R<br>100 Km ID : GU<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -516,7 +516,7 @@
       </Placemark>
       <Placemark>
         <name>CLLHIL (Tampa)</name>
-        <description><![CDATA[Site Name : Tampa<br>Memory Label : CLLHIL<br>Frequency : 442.850 MHz<br>Tone : 146.20 Hz<br>Type : Repeater (FB2)<br>County : Hillsborough<br>Region : Central<br>Grid Zone : 17R <br>100 Km ID : LL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Tampa<br>Memory Label : CLLHIL<br>Frequency : 442.850 MHz<br>Tone : 146.20 Hz<br>Type : Repeater (FB2)<br>County : Hillsborough<br>Region : Central<br>Grid Zone : 17R <br>100 Km ID : LL<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
@@ -526,7 +526,7 @@
       </Placemark>
       <Placemark>
         <name>NMPNAS (Yulee)</name>
-        <description><![CDATA[Site Name : Yulee<br>Memory Label : NMPNAS<br>Frequency : 442.900 MHz<br>Tone : 127.30 Hz<br>Type : Repeater (FB2)<br>County : Nassau<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Monday, August 31, 2020]]></description>
+        <description><![CDATA[Site Name : Yulee<br>Memory Label : NMPNAS<br>Frequency : 442.900 MHz<br>Tone : 127.30 Hz<br>Type : Repeater (FB2)<br>County : Nassau<br>Region : North<br>Grid Zone : 17R<br>100 Km ID : MP<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Tuesday, September 01, 2020]]></description>
         <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
