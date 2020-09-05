@@ -1,7 +1,7 @@
 "Site Name","Memory Label","TX (MHz)","Tone (Hz)","Built","Type","County","Region","Grid Zone","100 Km ID","Status","Notes","Last Update"
 "Andytown","SNJBRO",442.825,110.90,"Yes","Repeater (FB2)","Broward","South","17R","NJ","On-Air","Site is operational.","Saturday, September 05, 2020"
 "Apalachicola","WFTFRA",444.400,94.80,"Yes","Repeater (FB2)","Franklin","West","16R","FT","On-Air","Site is operational.","Saturday, September 05, 2020"
-"Brooksville","CLMHER",444.825,146.20,"Yes","Repeater (FB2)","Hernando","Central","17R","LM","Off-Air","Site is offline.","Saturday, September 05, 2020"
+"Brooksville","CLMHER",444.825,146.20,"Yes","Repeater (FB2)","Hernando","Central","17R","LM","On-Air","Site is operational.","Saturday, September 05, 2020"
 "Central Turnpike","CMLOSC",444.975,107.20,"Yes","Repeater (FB2)","Osceola","Central","17R","ML","On-Air","Site is operational.","Saturday, September 05, 2020"
 "Chattahoochee","WGUGAD",444.975,94.80,"Yes","Repeater (FB2)","Gadsden","West","16R","GU","On-Air","Site is operational.","Saturday, September 05, 2020"
 "Chiefland","NLNLEV","TBD","TBD","No","Repeater (FB2)","Levy","North","17R","LN","Off-Air","Site is back in the planning stage 2019.","Saturday, September 05, 2020"

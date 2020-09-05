@@ -196,8 +196,8 @@
       </Placemark>
       <Placemark>
         <name>CLMHER (Brooksville)</name>
-        <description><![CDATA[Site Name : Brooksville<br>Memory Label : CLMHER<br>Frequency : 444.825 MHz<br>Tone : 146.20 Hz<br>Type : Repeater (FB2)<br>County : Hernando<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is offline.<br>Last Update : Saturday, September 05, 2020]]></description>
-        <styleUrl>#icon-offair</styleUrl>
+        <description><![CDATA[Site Name : Brooksville<br>Memory Label : CLMHER<br>Frequency : 444.825 MHz<br>Tone : 146.20 Hz<br>Type : Repeater (FB2)<br>County : Hernando<br>Region : Central<br>Grid Zone : 17R<br>100 Km ID : LM<br>Built : Yes<br>Status : On-Air<br>Notes : Site is operational.<br>Last Update : Saturday, September 05, 2020]]></description>
+        <styleUrl>#icon-onair</styleUrl>
         <Point>
           <coordinates>
             -82.3878709,28.5552719,0
