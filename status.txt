@@ -1,16 +1,17 @@
 Last Update : Thursday, October 29, 2020
 
+Daytona frequency updated.SITE STATUS LIST.
 Andytown (FB2) : Site is operational.
 Apalachicola (FB2) : Site is operational.
 Brooksville (FB2) : Site is operational.
 Central Turnpike (FB2) : Site is operational.
 Chattahoochee (FB2) : Site is operational.
 Chiefland (FB2) : Site is back in the planning stage 2019.
-Chipley (FB2) : Site is operational.
+Chipley (FB2) : Site is operational.Christmas (FX1) : Site is pending FDOT approval. Local repeater is online.
 Clermont (FB2) : Site is operational.
 Cocoa (FB2) : Site is operational.
 Crestview (FB2) : Site is operational. Frequency will be changed to avoid interference with Alabama site.
-Daytona (FX1) : Site is pending.
+Daytona (FX1) : Site is pending FDOT approval.
 Dundee (FB2) : Frequency has been selected. Site is in the early planning stages.
 Estero (FB2) : Site in planning stage.
 Ft. Lauderdale (FB2) : Site is operational.
