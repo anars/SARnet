@@ -3,39 +3,39 @@ Last Update : Thursday, October 29, 2020
 Daytona frequency updated.SITE STATUS LIST.
 Andytown (FB2) : Site is operational.
 Apalachicola (FB2) : Site is operational.
-Brooksville (FB2) : Site is operational.
+Brooksville (FX1) : Site is operational.
 Central Turnpike (FB2) : Site is operational.
 Chattahoochee (FB2) : Site is operational.
-Chiefland (FB2) : Site is back in the planning stage 2019.
+Chiefland (FB2) : Site is in planning stage.
 Chipley (FB2) : Site is operational.Christmas (FX1) : Site is pending FDOT approval. Local repeater is online.
 Clermont (FB2) : Site is operational.
 Cocoa (FB2) : Site is operational.
 Crestview (FB2) : Site is operational. Frequency will be changed to avoid interference with Alabama site.
 Daytona (FX1) : Site is pending FDOT approval.
-Dundee (FB2) : Frequency has been selected. Site is in the early planning stages.
-Estero (FB2) : Site in planning stage.
+Dundee (FB2) : Frequency has been selected. Site is in planning stages.
+Estero (FB2) : Site is pending FDOT approval.
 Ft. Lauderdale (FB2) : Site is operational.
 Florida City (FB2) : Site is operational.
 Ft. Myers (FB2) : Site is operational.
 Gainesville (FX1) : Site is operational.
 Islamorada (FB2) : Site is offline.
-Jacksonville (FB2) : Site is offline through the end of August.
-Key West (FB2) : Formerly Sugarloaf. Site is in the planning stage.
+Jacksonville (FB2) : Site is operational.
+Key West (FB2) : Formerly Sugarloaf. Site is in planning stage.
 Lake City (FX1) : Site is operational.
 Lakeland (FX1) : Site is operational.
-Live Oak (FB2) : Site is operational.
+Live Oak (FB2) : Site is offline.
 Madison (FB2) : Site is operational.
 Miami (FX1) : Site is operational.
 Milton (FB2) : Site is operational.
 Naples (FB2) : Site is operational.
 Ocala (FB2) : Site is operational.
 Orlando (FB2) : Site is operational.
-Pahokee (FB2) : Site is still in planning stage..
+Pahokee (FB2) : Site is in planning stage.
 Palm Beach (FX1) : Site is operational.
 Panama City (FX1) : Site is operational.
-Pensacola (FB2) : Frequency selected. Site is in early planning stage.
+Pensacola (FB2) : Frequency selected. Site is in planning stage.
 Perry (FB2) : Site is operational.
-Sarasota (FB2) : Site is offline.
+Sarasota (FB2) : Site is operational.
 Sebastian (FB2) : Site is operational.
 State Emergency Operations Center (SEOC), ESF2 (FB2) : Site is operational.
 Skyway Bridge (FB2) : Site is operational.
