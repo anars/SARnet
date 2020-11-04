@@ -1,6 +1,6 @@
 Last Update : Wednesday, November 04, 2020
 
-Daytona frequency updated.SITE STATUS LIST.
+Live Oak is operational.SITE STATUS LIST.
 Andytown (FB2) : Site is operational.
 Apalachicola (FB2) : Site is operational.
 Brooksville (FX1) : Site is operational.
@@ -23,7 +23,7 @@ Jacksonville (FB2) : Site is operational.
 Key West (FB2) : Formerly Sugarloaf. Site is in planning stage.
 Lake City (FX1) : Site is operational.
 Lakeland (FX1) : Site is operational.
-Live Oak (FB2) : Site is offline.
+Live Oak (FB2) : Site is operational.
 Madison (FB2) : Site is operational.
 Miami (FX1) : Site is operational.
 Milton (FB2) : Site is operational.
