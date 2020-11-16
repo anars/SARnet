@@ -1,0 +1,36 @@
+{
+  "name": "sarnet-status-map",
+  "version": "1.0.0",
+  "description": "SARnet Florida Status Map",
+  "main": "update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anars/SARnet.git"
+  },
+  "keywords": [
+    "ham-radio",
+    "hamradio",
+    "repeater",
+    "map",
+    "leaflet",
+    "florida",
+    "sarnet",
+    "fcc",
+    "amateur-radio",
+    "amateurradio",
+    "amateur-radio-repeaters"
+  ],
+  "author": "Kay Anar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anars/SARnet/issues"
+  },
+  "homepage": "https://anars.com/SARnet/",
+  "eslintConfig": {
+    "es6": true,
+    "node": true
+  }
+}
