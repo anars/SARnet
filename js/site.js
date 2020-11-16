@@ -1,7 +1,7 @@
 window.onload = function () {
     const onair = L.layerGroup();
-    // const offair = L.layerGroup();
-    // const planned = L.layerGroup();
+    const offair = L.layerGroup();
+    const planned = L.layerGroup();
     const maxBounds = L.latLngBounds(
         L.latLng(38, -94), // Nortwest
         L.latLng(15, -70) // Southeast
@@ -11,7 +11,6 @@ window.onload = function () {
         L.latLng(24, -80) // Southeast
     );
     SARnetStatus.forEach((site) => {
-        console.log(site);
         L.marker([site.latitude, site.longitude]).bindPopup(`
         <table>
         <tr><td><strong>Name</strong></td><td><strong>:</strong></td><td>${site.site_name}</td></tr>
@@ -31,12 +30,12 @@ window.onload = function () {
         <tr><td><strong>Notes</strong></td><td><strong>:</strong></td><td>${site.notes}</td></tr>
         <tr><td><strong>Updated On</strong></td><td><strong>:</strong></td><td>${site.last_update}</td></tr>
         </table>
-        `).addTo(onair);
+        `).addTo(!site.built ? planned : (site.status === "On-Air" ? onair : offair));
     });
     const map = L.map("map");
     L.tileLayer(
         "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
-            "accessToken" : "pk.eyJ1IjoiYW5hcnMiLCJhIjoiY2tlZGowaHY1MDFldTJ6b3oyeW9pNTN2bSJ9.jIFUKXstg5M4vuD6_KuNyg",
+            "accessToken": "pk.eyJ1IjoiYW5hcnMiLCJhIjoiY2tlZGowaHY1MDFldTJ6b3oyeW9pNTN2bSJ9.jIFUKXstg5M4vuD6_KuNyg",
             "attribution": "Map data, Imagery &copy; <a href=\"https://www.openstreetmap.org\">OpenStreetMap</a>, <a href=\"https://www.mapbox.com\">Mapbox</a> and contributors. <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>",
             "id": "mapbox/outdoors-v11",
             "maxZoom": 18,
@@ -51,14 +50,14 @@ window.onload = function () {
     map.getPane("labels").style.zIndex = 650;
     map.getPane("labels").style.pointerEvents = "none";
     L.geoJson(floridaCounties, {
-        "style": {
-            "weight": 2,
-            "fillOpacity": 0
-        }
-    })
-    
-    .addTo(map)
-    
+            "style": {
+                "weight": 2,
+                "fillOpacity": 0
+            }
+        })
+
+        .addTo(map)
+
     // .eachLayer(function (layer) {
     //     layer.bindPopup(layer.feature.properties.name + " County");
     // });
@@ -74,13 +73,16 @@ window.onload = function () {
         // alert(error.message);
         // console.error(error);
     }
+
     function onMapClick(e) {
         console.log(e.latlng);
     }
-    
+
     map.on('click', onMapClick);
     map.on("locationfound", onLocationFound);
     map.on("locationerror", onLocationError);
-    var marker = onair.addTo(map);
+    var marker1 = onair.addTo(map);
+    var marker2 = offair.addTo(map);
+    var marker3 = planned.addTo(map);
 
 };
