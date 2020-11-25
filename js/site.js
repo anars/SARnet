@@ -1,7 +1,34 @@
 window.onload = function () {
     const onair = L.layerGroup();
+    const onairIcon = L.icon({
+        iconUrl: "../images/onair-no-shadow-normal.png",
+        shadowUrl: "../images/shadow.png",
+        iconSize: [32, 32],
+        shadowSize: [32, 32],
+        iconAnchor: [16, 16],
+        shadowAnchor: [16, 16],
+        popupAnchor: [0, 0]
+    });
     const offair = L.layerGroup();
+    const offairIcon = L.icon({
+        iconUrl: "../images/offair-no-shadow-normal.png",
+        shadowUrl: "../images/shadow.png",
+        iconSize: [32, 32],
+        shadowSize: [32, 32],
+        iconAnchor: [16, 16],
+        shadowAnchor: [16, 16],
+        popupAnchor: [0, 0]
+    });
     const planned = L.layerGroup();
+    const plannedIcon = L.icon({
+        iconUrl: "../images/planned-no-shadow-normal.png",
+        shadowUrl: "../images/shadow.png",
+        iconSize: [32, 32],
+        shadowSize: [32, 32],
+        iconAnchor: [16, 16],
+        shadowAnchor: [16, 16],
+        popupAnchor: [0, 0]
+    });
     const maxBounds = L.latLngBounds(
         L.latLng(38, -94), // Nortwest
         L.latLng(15, -70) // Southeast
@@ -11,7 +38,9 @@ window.onload = function () {
         L.latLng(24, -80) // Southeast
     );
     SARnetStatus.forEach((site) => {
-        L.marker([site.latitude, site.longitude]).bindPopup(`
+        L.marker([site.latitude, site.longitude], {
+            "icon": !site.built ? plannedIcon : (site.status === "On-Air" ? onairIcon : offairIcon)
+        }).bindPopup(`
         <table>
         <tr><td><strong>Name</strong></td><td><strong>:</strong></td><td>${site.site_name}</td></tr>
         <tr><td><strong>Label</strong></td><td><strong>:</strong></td><td>${site.memory_label}</td></tr>
@@ -55,12 +84,7 @@ window.onload = function () {
                 "fillOpacity": 0
             }
         })
-
-        .addTo(map)
-
-    // .eachLayer(function (layer) {
-    //     layer.bindPopup(layer.feature.properties.name + " County");
-    // });
+        .addTo(map);
 
     function onLocationFound(e) {
         var radius = e.accuracy / 2;
@@ -77,12 +101,10 @@ window.onload = function () {
     function onMapClick(e) {
         console.log(e.latlng);
     }
-
     map.on('click', onMapClick);
     map.on("locationfound", onLocationFound);
     map.on("locationerror", onLocationError);
     var marker1 = onair.addTo(map);
     var marker2 = offair.addTo(map);
     var marker3 = planned.addTo(map);
-
 };
