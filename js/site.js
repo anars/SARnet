@@ -1,8 +1,8 @@
 window.onload = function () {
     const onair = L.layerGroup();
     const onairIcon = L.icon({
-        iconUrl: "../images/onair-no-shadow-normal.png",
-        shadowUrl: "../images/shadow.png",
+        iconUrl: "images/onair-no-shadow-normal.png",
+        shadowUrl: "images/shadow.png",
         iconSize: [32, 32],
         shadowSize: [32, 32],
         iconAnchor: [16, 16],
@@ -11,8 +11,8 @@ window.onload = function () {
     });
     const offair = L.layerGroup();
     const offairIcon = L.icon({
-        iconUrl: "../images/offair-no-shadow-normal.png",
-        shadowUrl: "../images/shadow.png",
+        iconUrl: "images/offair-no-shadow-normal.png",
+        shadowUrl: "images/shadow.png",
         iconSize: [32, 32],
         shadowSize: [32, 32],
         iconAnchor: [16, 16],
@@ -21,8 +21,8 @@ window.onload = function () {
     });
     const planned = L.layerGroup();
     const plannedIcon = L.icon({
-        iconUrl: "../images/planned-no-shadow-normal.png",
-        shadowUrl: "../images/shadow.png",
+        iconUrl: "images/planned-no-shadow-normal.png",
+        shadowUrl: "images/shadow.png",
         iconSize: [32, 32],
         shadowSize: [32, 32],
         iconAnchor: [16, 16],
