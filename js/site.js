@@ -29,6 +29,39 @@ window.onload = function () {
         shadowAnchor: [16, 16],
         popupAnchor: [0, 0]
     });
+    const mapURL = "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW5hcnMiLCJhIjoiY2tlZGowaHY1MDFldTJ6b3oyeW9pNTN2bSJ9.jIFUKXstg5M4vuD6_KuNyg";
+    const attribution = "Map data, Imagery &copy; <a href=\"https://www.openstreetmap.org\">OpenStreetMap</a>, <a href=\"https://www.mapbox.com\">Mapbox</a> and contributors. <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>";
+    const layerLight = L.tileLayer(mapURL, {
+            id: 'mapbox/light-v10',
+            tileSize: 512,
+            zoomOffset: -1,
+            attribution
+        }),
+        layerDark = L.tileLayer(mapURL, {
+            id: 'mapbox/dark-v10',
+            tileSize: 512,
+            zoomOffset: -1,
+            attribution
+        }),
+        layerStreets = L.tileLayer(mapURL, {
+            id: 'mapbox/streets-v11',
+            tileSize: 512,
+            zoomOffset: -1,
+            attribution
+        }),
+        layerOutdoors = L.tileLayer(mapURL, {
+            id: 'mapbox/outdoors-v11',
+            tileSize: 512,
+            zoomOffset: -1,
+            attribution
+        }),
+        layerSatellite = L.tileLayer(mapURL, {
+            id: 'mapbox/satellite-streets-v11',
+            tileSize: 512,
+            zoomOffset: -1,
+            attribution
+        });
+
     const maxBounds = L.latLngBounds(
         L.latLng(38, -94), // Nortwest
         L.latLng(15, -70) // Southeast
@@ -61,18 +94,12 @@ window.onload = function () {
         </table>
         `).addTo(!site.built ? planned : (site.status === "On-Air" ? onair : offair));
     });
-    const map = L.map("map");
-    L.tileLayer(
-        "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
-            "accessToken": "pk.eyJ1IjoiYW5hcnMiLCJhIjoiY2tlZGowaHY1MDFldTJ6b3oyeW9pNTN2bSJ9.jIFUKXstg5M4vuD6_KuNyg",
-            "attribution": "Map data, Imagery &copy; <a href=\"https://www.openstreetmap.org\">OpenStreetMap</a>, <a href=\"https://www.mapbox.com\">Mapbox</a> and contributors. <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>",
-            "id": "mapbox/outdoors-v11",
-            "maxZoom": 18,
-            "minZoom": 6,
-            "tileSize": 512,
-            "zoomOffset": -1,
-            maxBounds
-        }).addTo(map);
+    const map = L.map("map", {
+        "maxZoom": 18,
+        "minZoom": 6,
+        maxBounds,
+        "layers": [layerLight, onair, offair, planned]
+    });
     map.setMaxBounds(maxBounds);
     map.fitBounds(fitBounds);
     map.createPane("labels");
@@ -80,11 +107,25 @@ window.onload = function () {
     map.getPane("labels").style.pointerEvents = "none";
     L.geoJson(floridaCounties, {
             "style": {
-                "weight": 2,
+                "weight": 1,
                 "fillOpacity": 0
             }
         })
         .addTo(map);
+    const baseLayers = {
+        "Light": layerLight,
+        "Dark": layerDark,
+        "Streets": layerStreets,
+        "Outdoors": layerOutdoors,
+        "Satellite": layerSatellite
+    };
+
+    const overlays = {
+        "On-Air": onair,
+        "Off-Air": offair,
+        "Planned": planned
+    };
+    L.control.layers(baseLayers, overlays).addTo(map);
 
     function onLocationFound(e) {
         var radius = e.accuracy / 2;
@@ -104,7 +145,7 @@ window.onload = function () {
     map.on('click', onMapClick);
     map.on("locationfound", onLocationFound);
     map.on("locationerror", onLocationError);
-    var marker1 = onair.addTo(map);
-    var marker2 = offair.addTo(map);
-    var marker3 = planned.addTo(map);
+    // var marker1 = onair.addTo(map);
+    // var marker2 = offair.addTo(map);
+    // var marker3 = planned.addTo(map);
 };
