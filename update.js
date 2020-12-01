@@ -31,7 +31,7 @@ https.get("https://www.sarnetfl.com/system-status.html", (res) => {
                 for (let index = 0; index < lines.length && item.status === "Unknown"; index++) {
                     lines[index] = lines[index].trim();
                     if (lines[index].toLowerCase().indexOf(item.site_name.toLowerCase()) != -1) {
-                        item.status = `${(lines[index].toLowerCase().indexOf("site is operational") != -1) ? "On" : "Off"}-Air`;
+                        item.status = `${(lines[index].toLowerCase().indexOf(" is operational") != -1) ? "On" : "Off"}-Air`;
                         item.notes = `${lines[index].split(":")[1]}`.trim();
                     }
                 }
@@ -52,13 +52,11 @@ https.get("https://www.sarnetfl.com/system-status.html", (res) => {
             });
             data = "";
             status.forEach((item) => {
-                //"Andytown","SNJBRO",442.825,110.90,"Yes","Repeater (FB2)","Broward","South","17R","NJ","On-Air","Site is operational.","Thursday, October 29, 2020"
                 data += `\n"${item.site_name}","${item.memory_label}",${item.frequency},${item.tone_frequency},"${item.built ? "Yes" : "No"}","${item.type}","${item.county}","${item.region}","${item.grid_zone}","${item.hundred_km_id}","${item.status}","${item.notes}","${new Date().toLocaleString("en-US")}"`;
             });
             fs.writeFile("status.csv", `"Site Name","Memory Label","TX (MHz)","Tone (Hz)","Built","Type","County","Region","Grid Zone","100 Km ID","Status","Notes","Last Update"${data}`, function (error) {
                 if (error) return console.error(error);
             });
-            //console.log(status);
         } catch (exception) {
             console.error(exception.message);
         }
