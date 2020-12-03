@@ -57,6 +57,13 @@ https.get("https://www.sarnetfl.com/system-status.html", (res) => {
             fs.writeFile("status.csv", `"Site Name","Memory Label","TX (MHz)","Tone (Hz)","Built","Type","County","Region","Grid Zone","100 Km ID","Status","Notes","Last Update"${data}`, function (error) {
                 if (error) return console.error(error);
             });
+            data = "";
+            status.filter(item => item.built).forEach((item, index) => {
+                data += `\n${index},${item.memory_label},${item.frequency},+,${item.offset},Tone,${item.tone_frequency},${item.tone_frequency},023,NN,FM,5.00,,${item.site_name},,,,`;
+            });
+            fs.writeFile("chirp.csv", `Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE${data}`, function (error) {
+                if (error) return console.error(error);
+            });
         } catch (exception) {
             console.error(exception.message);
         }
