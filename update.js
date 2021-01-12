@@ -61,7 +61,6 @@ https.get("https://www.sarnetfl.com/system-status.html", (res) => {
             status.filter(item => item.built).forEach((item, index) => {
                 data += `\n${index},${item.memory_label},${item.frequency},+,${item.offset},Tone,${item.tone_frequency},${item.tone_frequency},023,NN,FM,5.00,,${item.site_name},,,,`;
             });
-            console.log(data);
             fs.writeFile("chirp.csv", `Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE${data}`, function (error) {
                 if (error) return console.error(error);
             });
