@@ -64,6 +64,15 @@ https.get("https://www.sarnetfl.com/system-status.html", (res) => {
             fs.writeFile("chirp.csv", `Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE${data}`, function (error) {
                 if (error) return console.error(error);
             });
+            // Export to CubicSDR bookmark file
+            data = "<?xml version=\"1.0\" ?>\n<cubicsdr_bookmarks>\n\t<header>\n\t\t<version>%30%2e%32%2e%34</version>\n\t</header>\n\t<branches>\n\t\t<active>0</active>\n\t\t<range>0</range>\n\t\t<bookmark>1</bookmark>\n\t\t<recent>0</recent>\n\t</branches>\n\t<ranges />\n\t<modems>\n\t\t<group name=\"SARNet\" expanded=\"true\">";
+            status.filter(item => item.built).forEach((item, index) => {
+                data += `\n\t\t\t<modem>\n\t\t\t\t<bandwidth>25000</bandwidth>\n\t\t\t\t<frequency>${item.frequency * 1000000}</frequency>\n\t\t\t\t<type>FM</type>\n\t\t\t\t<user_label>${(item.site_name + " (" + item.memory_label + ")").split("").map(char => "%" + char.charCodeAt(0).toString(16)).join("")}</user_label>\n\t\t\t\t<squelch_level>-31</squelch_level>\n\t\t\t\t<squelch_enabled>1</squelch_enabled>\n\t\t\t\t<gain>1</gain>\n\t\t\t\t<muted>0</muted>\n\t\t\t\t<active>1</active>\n\t\t\t</modem>`;
+            });
+            data += "\n\t\t</group>\n\t</modems>\n\t<recent_modems />\n</cubicsdr_bookmarks>";
+            fs.writeFile("cubicsdr.xml", data, function (error) {
+                if (error) return console.error(error);
+            });
         } catch (exception) {
             console.error(exception.message);
         }
