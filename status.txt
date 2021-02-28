@@ -1,4 +1,4 @@
-Last Update : 2/27/2021, 12:00:04 AM
+Last Update : 2/28/2021, 12:00:09 AM
 
 Andytown Repeater (FB2): Site is operational.
 Apalachicola Repeater (FB2): Site is operational.
@@ -18,11 +18,11 @@ Florida City Repeater (FB2): Site is operational.
 Ft. Myers Repeater (FB2): Site is operational.
 Gainesville Control Station (FX1): Site is operational.
 Islamorada Repeater (FB2): Site is off-line.
-Jacksonville Repeater (FB2): Site is operational
+Jacksonville Repeater (FB2): Site is off-line.
 Key West Repeater (FB2): Formerly Sugarloaf. Site is in planning stage.
 Lake City Control Station (FX1): Site is operational.
 Lakeland Control Station (FX1): Site is operational.
-Live Oak Repeater (FB2): Live Oak is operational.
+Live Oak Repeater (FB2): Site is operational.
 Madison Repeater (FB2): Site is operational.
 Miami Control Station (FX1): Site is operational.
 Milton Repeater (FB2): Site is operational.
@@ -38,7 +38,7 @@ Sarasota Repeater (FB2): Site is operational.
 Sebastian Repeater (FB2): Site is operational.
 State Emergency Operations Center (SEOC) Repeater (FB2): Site is operational.
 Skyway Bridge Repeater (FB2): Site is operational.
-St. Augustine Repeater (FB2): Site is operational.
+St. Augustine Repeater (FB2): Jax and St. Augustine are down
 Stuart Repeater (FB2): Site is operational.
 Tallahassee Control Station (FX1): Site is operational.
 Tampa Repeater (FB2): Site is operational.
