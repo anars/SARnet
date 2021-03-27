@@ -21,7 +21,7 @@
       padding-top: 54px;
       margin: 0;
     }
-
+    
     html,
     body,
     #map {
@@ -91,7 +91,62 @@
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-          ...
+          <p>You may download the latest SARnet status data in the formats below;</p>
+          <ol class="list-group">
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold"><a href="status.txt" download="status.txt">Plain Text</a></div>
+                The repeaters and statuses listed/structured as a sequence of lines. It doesn't have repeater detais, such as Fre
+              </div>
+              <a href="status.txt" target="_new"><span class="badge bg-dark">TXT</span></a>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold"><a href="status.csv" download="status.csv">Comma Separated Values</a></div>
+                Cras justo odio
+              </div>
+              <a href="status.csv" target="_new"><span class="badge bg-dark">CSV</span></a>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold"><a href="status.json" download="status.json">JavaScript Object Notation</a></div>
+                Cras justo odio
+              </div>
+              <a href="status.json" target="_new"><span class="badge bg-dark">JSON</span></a>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold"><a href="status.js" download="status.js">JavaScript</a></div>
+                Cras justo odio
+              </div>
+              <a href="status.js" target="_new"><span class="badge bg-dark">JS</span></a>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold"><a href="status.kml" download="status.kml">Keyhole Markup Language</a></div>
+                Cras justo odio
+              </div>
+              <a href="status.kml" target="_new"><span class="badge bg-dark">KML</span></a>
+            </li>
+          </ol>
+          <p><br/>You may download the latest SARnet status data in the formats below;</p>
+          <ol class="list-group">
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold"><a href="chirp.csv" download="chirp.csv">CHIRP</a></div>
+                The repeaters and statuses listed/structured as a sequence of lines. It doesn't have repeater detais, such as Fre
+              </div>
+              <a href="chirp.csv" target="_new"><span class="badge bg-dark">CSV</span></a>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold"><a href="cubicsdr.xml" download="cubicsdr.xml">CubicSDR</a></div>
+                Cras justo odio
+              </div>
+              <a href="cubicsdr.xml" target="_new"><span class="badge bg-dark">XML</span></a>
+            </li>
+          </ol>
+          <p><br/></p>
         </div>
       </div>
     </div>
