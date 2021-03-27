@@ -75,22 +75,22 @@ window.onload = function () {
             "icon": !site.built ? plannedIcon : (site.status === "On-Air" ? onairIcon : offairIcon)
         }).bindPopup(`
         <table>
-        <tr><td><strong>Name</strong></td><td><strong>:</strong></td><td>${site.site_name}</td></tr>
-        <tr><td><strong>Label</strong></td><td><strong>:</strong></td><td>${site.memory_label}</td></tr>
-        <tr><td><strong>Status</strong></td><td><strong>:</strong></td><td>${site.status}</td></tr>
-        <tr><td><strong>Frequency</strong></td><td><strong>:</strong></td><td>${site.frequency} Mhz</td></tr>
-        <tr><td><strong>Offset</strong></td><td><strong>:</strong></td><td>${site.duplex}${site.offset} Mhz</td></tr>
-        <tr><td><strong>Tone</strong></td><td><strong>:</strong></td><td>${site.tone_frequency} Hz</td></tr>
-        <tr><td><strong>Type</strong></td><td><strong>:</strong></td><td>${site.type}</td></tr>
-        <tr><td><strong>Built</strong></td><td><strong>:</strong></td><td>${site.built ? "Yes" : "No"}</td></tr>
-        <tr><td><strong>Latitude</strong></td><td><strong>:</strong></td><td>${site.latitude}</td></tr>
-        <tr><td><strong>Longitude</strong></td><td><strong>:</strong></td><td>${site.longitude}</td></tr>
-        <tr><td><strong>County</strong></td><td><strong>:</strong></td><td>${site.county}</td></tr>
-        <tr><td><strong>​Region</strong></td><td><strong>:</strong></td><td>${site.region}</td></tr>
-        <tr><td><strong>Grid Zone</strong></td><td><strong>:</strong></td><td>${site.grid_zone}</td></tr>
-        <tr><td><strong>100 km id</strong></td><td><strong>:</strong></td><td>${site.hundred_km_id}</td></tr>
-        <tr><td><strong>Notes</strong></td><td><strong>:</strong></td><td>${site.notes}</td></tr>
-        <tr><td><strong>Updated On</strong></td><td><strong>:</strong></td><td>${site.last_update}</td></tr>
+        <tr><td><strong>Name</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.site_name}</td></tr>
+        <tr><td><strong>Label</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.memory_label}</td></tr>
+        <tr><td><strong>Status</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.status}</td></tr>
+        <tr><td><strong>Frequency</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.frequency} Mhz</td></tr>
+        <tr><td><strong>Offset</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.duplex}${site.offset} Mhz</td></tr>
+        <tr><td><strong>Tone</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.tone_frequency} Hz</td></tr>
+        <tr><td><strong>Type</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.type}</td></tr>
+        <tr><td><strong>Built</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.built ? "Yes" : "No"}</td></tr>
+        <tr><td><strong>Latitude</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.latitude}</td></tr>
+        <tr><td><strong>Longitude</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.longitude}</td></tr>
+        <tr><td><strong>County</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.county}</td></tr>
+        <tr><td><strong>​Region</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.region}</td></tr>
+        <tr><td><strong>Grid Zone</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.grid_zone}</td></tr>
+        <tr><td><strong>100 km id</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.hundred_km_id}</td></tr>
+        <tr><td><strong>Notes</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.notes}</td></tr>
+        <tr><td><strong>Updated On</strong></td><td><strong>&nbsp;:&nbsp;</strong></td><td>${site.last_update}</td></tr>
         </table>
         `).addTo(!site.built ? planned : (site.status === "On-Air" ? onair : offair));
     });
