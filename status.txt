@@ -1,45 +1,45 @@
-Last Update : 10/4/2021, 12:00:08 AM
+Last Update : 10/4/2021, 8:31:48 PM
 
-Andytown Repeater (FB2): 
-Apalachicola Repeater (FB2): 
-Brooksville Repeater (FB2): 
-Central Turnpike Repeater (FB2): 
-Chattahoochee Repeater (FB2): 
-Chiefland Repeater (FB2): 
-Chipley Repeater (FB2): 
-Clermont Repeater (FB2): 
-Cocoa Repeater (FB2): 
-Crestview Repeater (FB2): 
-Daytona Control Station (FX1): 
-Dundee Repeater (FB2): 
-Estero Repeater (FB2): 
-Ft. Lauderdale Repeater (FB2): 
-Florida City Repeater (FB2): 
-Ft. Myers Repeater (FB2): 
-Gainesville Control Station (FX1): 
-Islamorada Repeater (FB2): 
-Jacksonville Repeater (FB2): 
-Key West Repeater (FB2): 
-Lake City Control Station (FX1): 
-Lakeland Control Station (FX1): 
-Live Oak Repeater (FB2): 
-Madison Repeater (FB2): 
-Miami Control Station (FX1): 
-Milton Repeater (FB2): 
-Naples Repeater (FB2): 
-Ocala Repeater (FB2): 
-Orlando Repeater (FB2): 
-Pahokee Repeater (FB2): 
-Palm Beach Control Station (FX1): 
-Panama City Control Station (FX1): 
-Pensacola Repeater (FB2): 
-Perry Repeater (FB2): 
-Sarasota Repeater (FB2): 
-Sebastian Repeater (FB2): 
-State Emergency Operations Center (SEOC) Repeater (FB2): 
-Skyway Bridge Repeater (FB2): 
-St. Augustine Repeater (FB2): 
-Stuart Repeater (FB2): 
-Tallahassee Control Station (FX1): 
-Tampa Repeater (FB2): 
-Yulee Repeater (FB2): 
+Andytown Repeater (FB2): Site is operational.
+Apalachicola Repeater (FB2): Site is operational.
+Brooksville Repeater (FB2): Site is operational.
+Central Turnpike Repeater (FB2): Site is operational.
+Chattahoochee Repeater (FB2): Site is operational.
+Chiefland Repeater (FB2): Site is in planning stage.
+Chipley Repeater (FB2): Site is operational.
+Clermont Repeater (FB2): Site is operational.
+Cocoa Repeater (FB2): Site is operational.
+Crestview Repeater (FB2): Site is operational. Frequency will be changed to avoid interference with Alabama site.
+Daytona Control Station (FX1): Site is pending FDOT approval.
+Dundee Repeater (FB2): Frequency has been selected. Site is in planning stages.
+Estero Repeater (FB2): Site is pending FDOT approval.
+Ft. Lauderdale Repeater (FB2): Site is operational.
+Florida City Repeater (FB2): Site is operational.
+Ft. Myers Repeater (FB2): Site is operational.
+Gainesville Control Station (FX1): Site is operational.
+Islamorada Repeater (FB2): Site is off-line.
+Jacksonville Repeater (FB2): Site is off-line.
+Key West Repeater (FB2): Formerly Sugarloaf. Site is in planning stage.
+Lake City Control Station (FX1): Site is operational.
+Lakeland Control Station (FX1): Site is operational.
+Live Oak Repeater (FB2): Site is operational.
+Madison Repeater (FB2): Site is operational.
+Miami Control Station (FX1): Site is operational.
+Milton Repeater (FB2): Site is operational.
+Naples Repeater (FB2): Site is operational.
+Ocala Repeater (FB2): Site is operational.
+Orlando Repeater (FB2): Site is operational.
+Pahokee Repeater (FB2): Site is in planning stage.
+Palm Beach Control Station (FX1): Site is operational.
+Panama City Control Station (FX1): Site is operational.
+Pensacola Repeater (FB2): Frequency selected. Site is in planning stage.
+Perry Repeater (FB2): Site is operational.
+Sarasota Repeater (FB2): Site is operational.
+Sebastian Repeater (FB2): Site is operational.
+State Emergency Operations Center (SEOC) Repeater (FB2): Site is operational.
+Skyway Bridge Repeater (FB2): Site is operational.
+St. Augustine Repeater (FB2): Jax and St. Augustine are down
+Stuart Repeater (FB2): Site is operational.
+Tallahassee Control Station (FX1): Site is operational.
+Tampa Repeater (FB2): Site is operational.
+Yulee Repeater (FB2): Site is operational.

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const https = require("https");
+const http = require("http");
 const status = require("./status.json");
 const fs = require("fs");
 
@@ -10,10 +10,11 @@ status.forEach((item) => {
     item.status = "Unknown";
 });
 
-https.get("https://www.sarnetfl.com/system-status.html", (res) => {
+http.get("http://www.sarnetfl.com/system-status.html", (res) => {
     let data = "";
     res.on("data", (chunk) => {
         data += chunk;
+        console.log(data);
     });
     res.on("end", () => {
         try {
