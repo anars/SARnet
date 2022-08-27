@@ -14,7 +14,7 @@ http.get("http://www.sarnetfl.com/system-status.html", (res) => {
     let data = "";
     res.on("data", (chunk) => {
         data += chunk;
-        console.log(data);
+        // console.log(data);
     });
     res.on("end", () => {
         try {
