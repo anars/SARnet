@@ -1,4 +1,4 @@
-Last Update : 9/8/2022, 3:55:31 PM
+Last Update : 9/28/2022, 5:14:55 PM
 
 Andytown Repeater (FB2): Site is operational.
 Apalachicola Repeater (FB2): Site is operational.
@@ -7,7 +7,7 @@ Central Turnpike Repeater (FB2): Site is offline due to antenna system issues.
 Chattahoochee Repeater (FB2): Site is operational.
 Chiefland Repeater (FB2): Site is pending FDOT approval.
 Chipley Repeater (FB2): Site is operational.
-Clermont Repeater (FB2): Site is operational but off the network.
+Clermont Repeater (FB2): undefined
 Cocoa Repeater (FB2): Site is operational.
 Crestview Repeater (FB2): Site is operational. Frequency will be changed to avoid interference with Alabama site.
 Daytona Control Station (FX1): Site is pending FDOT approval.
@@ -18,7 +18,7 @@ Florida City Repeater (FB2): Site is off-line.
 Ft. Myers Repeater (FB2): Site is operational.
 Gainesville Control Station (FX1): Site is operational.
 Islamorada Repeater (FB2): Site is off-line.
-Jacksonville Repeater (FB2): Site is off-line.
+Jacksonville Repeater (FB2): undefined
 Key West Repeater (FB2): Site is pending FDOT approval.
 Lake City Control Station (FX1): Site is operational.
 Lakeland Control Station (FX1): Site is operational.
