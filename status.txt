@@ -1,4 +1,4 @@
-Last Update : 12/26/2022, 11:56:08 AM
+Last Update : 1/1/2023, 10:36:43 AM
 
 Andytown Repeater (FB2): Site is operational.
 Apalachicola Repeater (FB2): Site is operational.
@@ -7,6 +7,7 @@ Central Turnpike Repeater (FB2): Site is offline due to antenna system issues.
 Chattahoochee Repeater (FB2): Site is operational.
 Chiefland Repeater (FB2): Site is pending FDOT approval.
 Chipley Repeater (FB2): Site is operational.
+Christmas Repeater (FB2): Site is operational.
 Clermont Repeater (FB2): undefined
 Cocoa Repeater (FB2): Site is operational.
 Crestview Repeater (FB2): Site is operational. Frequency will be changed to avoid interference with Alabama site.

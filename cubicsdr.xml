@@ -80,6 +80,17 @@
 			</modem>
 			<modem>
 				<bandwidth>25000</bandwidth>
+				<frequency>442875000</frequency>
+				<type>FM</type>
+				<user_label>%43%68%72%69%73%74%6d%61%73%20%28%43%4e%4d%4f%52%41%29</user_label>
+				<squelch_level>-31</squelch_level>
+				<squelch_enabled>1</squelch_enabled>
+				<gain>1</gain>
+				<muted>0</muted>
+				<active>1</active>
+			</modem>
+			<modem>
+				<bandwidth>25000</bandwidth>
 				<frequency>444975000</frequency>
 				<type>FM</type>
 				<user_label>%43%6c%65%72%6d%6f%6e%74%20%28%43%4d%4d%4c%41%4b%29</user_label>
@@ -278,7 +289,7 @@
 			</modem>
 			<modem>
 				<bandwidth>25000</bandwidth>
-				<frequency>443975000</frequency>
+				<frequency>444325000</frequency>
 				<type>FM</type>
 				<user_label>%50%61%6c%6d%20%42%65%61%63%68%20%28%53%4e%4b%50%41%4c%29</user_label>
 				<squelch_level>-31</squelch_level>
