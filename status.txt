@@ -1,4 +1,4 @@
-Last Update : 2/9/2023, 12:00:01 PM
+Last Update : 2/10/2023, 12:00:02 AM
 
 Andytown Repeater (FB2): Site is operational.
 Apalachicola Repeater (FB2): Site is operational.
@@ -8,7 +8,7 @@ Chattahoochee Repeater (FB2): Site is operational.
 Chiefland Repeater (FB2): Site is pending FDOT approval.
 Chipley Repeater (FB2): Site is operational.
 Christmas Repeater (FB2): Site is operational.
-Clermont Repeater (FB2): undefined
+Clermont Repeater (FB2): Site is operational.
 Cocoa Repeater (FB2): Site is operational.
 Crestview Repeater (FB2): Site is operational. Frequency will be changed to avoid interference with Alabama site.
 Daytona Control Station (FX1): Site is pending FDOT approval.
@@ -19,7 +19,7 @@ Florida City Repeater (FB2): Site is off-line.
 Ft. Myers Repeater (FB2): Site is operational.
 Gainesville Control Station (FX1): Site is operational.
 Islamorada Repeater (FB2): Site is off-line.
-Jacksonville Repeater (FB2): undefined
+Jacksonville Repeater (FB2): Site is operational.
 Key West Repeater (FB2): Site is pending FDOT approval.
 Lake City Control Station (FX1): Site is operational.
 Lakeland Control Station (FX1): Site is operational.
@@ -29,7 +29,7 @@ Miami Control Station (FX1): Site is operational.
 Milton Repeater (FB2): Site is operational.
 Naples Repeater (FB2): Site is operational.
 Ocala Repeater (FB2): Site is operational.
-Orlando Repeater (FB2): Site is operational.
+Orlando Repeater (FB2): Site is off-line.
 Pahokee Repeater (FB2): Site is pending FDOT approval.
 Palm Beach Control Station (FX1): Site is operational.
 Panama City Control Station (FX1): Site is operational.
@@ -42,5 +42,5 @@ Skyway Bridge Repeater (FB2): Site is operational.
 St. Augustine Repeater (FB2): Site is operational.
 Stuart Repeater (FB2): Site is operational.
 Tallahassee Control Station (FX1): Site is operational.
-Tampa Repeater (FB2): Site is operational.
+Tampa Repeater (FB2): Site is off-line.
 Yulee Repeater (FB2): Site is operational.
