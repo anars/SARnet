@@ -1,8 +1,8 @@
-Last Update : 5/27/2023, 12:00:02 PM
+Last Update : 5/28/2023, 12:00:04 AM
 
-Andytown Repeater (FB2): Site is operational.
+Andytown Repeater (FB2): Site is offline due to power supply issues.
 Apalachicola Repeater (FB2): Site is operational.
-Brooksville Repeater (FB2): Site is operational.
+Brooksville Repeater (FB2): Site is offline due to antenna issues.
 Central Turnpike Repeater (FB2): Site is offline due to antenna system issues.
 Chattahoochee Repeater (FB2): Site is operational.
 Chiefland Repeater (FB2): Site is pending FDOT approval.
@@ -23,7 +23,7 @@ Jacksonville Repeater (FB2): Site is operational.
 Key West Repeater (FB2): Site is pending FDOT approval.
 Lake City Control Station (FX1): Site is operational.
 Lakeland Control Station (FX1): Site is operational.
-Live Oak Repeater (FB2): Site is operational.
+Live Oak Repeater (FB2): Site is offline due to equipment failures.
 Madison Repeater (FB2): Site is operational.
 Miami Control Station (FX1): Site is operational.
 Milton Repeater (FB2): Site is operational.
