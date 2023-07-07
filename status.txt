@@ -1,6 +1,6 @@
-Last Update : 7/6/2023, 12:00:02 PM
+Last Update : 7/7/2023, 12:00:04 AM
 
-Andytown Repeater (FB2): Site is offline due to power supply issues.
+Andytown Repeater (FB2): Site is operational.
 Apalachicola Repeater (FB2): Site is operational.
 Brooksville Repeater (FB2): Site is offline due to antenna issues.
 Central Turnpike Repeater (FB2): Site is offline due to antenna system issues.
@@ -8,7 +8,7 @@ Chattahoochee Repeater (FB2): Site is operational.
 Chiefland Repeater (FB2): Site is pending FDOT approval.
 Chipley Repeater (FB2): Site is operational.
 Christmas Repeater (FB2): Site is operational.
-Clermont Repeater (FB2): Site is operational.
+Clermont Repeater (FB2): Site is off-line due to repeater issues. Repeater to be replaced.
 Cocoa Repeater (FB2): Site is operational.
 Crestview Repeater (FB2): Site is operational. Frequency will be changed to avoid interference with Alabama site.
 Daytona Control Station (FX1): Site is pending FDOT approval.
@@ -23,13 +23,13 @@ Jacksonville Repeater (FB2): Site is operational.
 Key West Repeater (FB2): Site is pending FDOT approval.
 Lake City Control Station (FX1): Site is operational.
 Lakeland Control Station (FX1): Site is operational.
-Live Oak Repeater (FB2): Site is offline due to equipment failures.
+Live Oak Repeater (FB2): Site is operational.
 Madison Repeater (FB2): Site is operational.
 Miami Control Station (FX1): Site is operational.
 Milton Repeater (FB2): Site is operational.
 Naples Repeater (FB2): Site is operational.
 Ocala Repeater (FB2): Site is operational.
-Orlando Repeater (FB2): Site is off-line.
+Orlando Repeater (FB2): Site is operational.
 Pahokee Repeater (FB2): Site is pending FDOT approval.
 Palm Beach Control Station (FX1): Site is operational.
 Panama City Control Station (FX1): Site is operational.
@@ -38,9 +38,9 @@ Perry Repeater (FB2): Site is operational.
 Sarasota Repeater (FB2): Site is operational.
 Sebastian Repeater (FB2): Site is operational.
 State Emergency Operations Center (SEOC) Repeater (FB2): Site is operational.
-Skyway Bridge Repeater (FB2): Site is operational.
+Skyway Bridge Repeater (FB2): Site is offline due to microwave link issues.
 St. Augustine Repeater (FB2): Site is operational.
 Stuart Repeater (FB2): Site is operational.
 Tallahassee Control Station (FX1): Site is operational.
-Tampa Repeater (FB2): Site is off-line.
+Tampa Repeater (FB2): Site is operational.
 Yulee Repeater (FB2): Site is operational.
