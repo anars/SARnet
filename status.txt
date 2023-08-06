@@ -1,4 +1,4 @@
-Last Update : 8/5/2023, 12:00:01 PM
+Last Update : 8/6/2023, 12:00:01 AM
 
 Andytown Repeater (FB2): Site is operational.
 Apalachicola Repeater (FB2): Site is operational.
@@ -8,7 +8,7 @@ Chattahoochee Repeater (FB2): Site is operational.
 Chiefland Repeater (FB2): Site is pending FDOT approval.
 Chipley Repeater (FB2): Site is operational.
 Christmas Repeater (FB2): Site is operational.
-Clermont Repeater (FB2): Site is off-line due to repeater issues. Repeater to be replaced.
+Clermont Repeater (FB2): Site is operational.
 Cocoa Repeater (FB2): Site is operational.
 Crestview Repeater (FB2): Site is operational. Frequency will be changed to avoid interference with Alabama site.
 Daytona Control Station (FX1): Site is pending FDOT approval.
