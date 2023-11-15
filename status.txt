@@ -1,4 +1,4 @@
-Last Update : 11/14/2023, 12:00:02 PM
+Last Update : 11/15/2023, 12:00:02 AM
 
 Andytown Repeater (FB2): Site is operational.
 Apalachicola Repeater (FB2): Site is operational.
@@ -16,7 +16,7 @@ Dundee Repeater (FB2): Site is pending FDOT approval.
 Estero Repeater (FB2): Site is pending FDOT approval.
 Ft. Lauderdale Repeater (FB2): Site is operational.
 Florida City Repeater (FB2): Site is off-line.
-Ft. Myers Repeater (FB2): Site is operational.
+Ft. Myers Repeater (FB2): Site is off-line.
 Gainesville Control Station (FX1): Site is operational.
 Islamorada Repeater (FB2): Site is off-line.
 Jacksonville Repeater (FB2): Site is operational.
