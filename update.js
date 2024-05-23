@@ -10,7 +10,7 @@ status.forEach((item) => {
     item.status = "Unknown";
 });
 
-http.get("http://www.sarnetfl.com/system-status.html", (res) => {
+http.get("http://www.sarnetfl.org/system-status.html", (res) => {
     let data = "";
     res.on("data", (chunk) => {
         data += chunk;
