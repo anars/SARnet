@@ -1,4 +1,4 @@
-Last Update : 2/3/2025, 2:27:49 AM
+Last Update : 2/3/2025, 2:29:33 AM
 
 Andytown Repeater (FB2): Site is operational.
 Apalachicola Repeater (FB2): Site is operational.
@@ -31,7 +31,7 @@ Naples Repeater (FB2): Site is operational.
 Ocala Repeater (FB2): Site is operational.
 Orlando Repeater (FB2): Site is operational.
 Pahokee Repeater (FB2): Site is pending FDOT approval.
-West Palm Beach Control Station (FX1): 
+Palm Beach Control Station (FX1): Site is operational.
 Panama City Control Station (FX1): Site is operational.
 Pensacola Repeater (FB2): Site is pending FDOT approval. Frequency selected.
 Perry Repeater (FB2): Site is operational.

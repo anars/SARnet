@@ -291,7 +291,7 @@
 				<bandwidth>25000</bandwidth>
 				<frequency>444325000</frequency>
 				<type>FM</type>
-				<user_label>%57%65%73%74%20%50%61%6c%6d%20%42%65%61%63%68%20%28%53%4e%4b%50%41%4c%29</user_label>
+				<user_label>%50%61%6c%6d%20%42%65%61%63%68%20%28%53%4e%4b%50%41%4c%29</user_label>
 				<squelch_level>-31</squelch_level>
 				<squelch_enabled>1</squelch_enabled>
 				<gain>1</gain>

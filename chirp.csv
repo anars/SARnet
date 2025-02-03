@@ -24,7 +24,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 22,SMJCLR,444.95,+,5,Tone,103.5,103.5,023,NN,FM,5.00,,Naples,,,,
 23,NLNMAO,444.025,+,5,Tone,123,123,023,NN,FM,5.00,,Ocala,,,,
 24,CMMORA,444.075,+,5,Tone,103.5,103.5,023,NN,FM,5.00,,Orlando,,,,
-25,SNKPAL,444.325,+,5,Tone,110.9,110.9,023,NN,FM,5.00,,West Palm Beach,,,,
+25,SNKPAL,444.325,+,5,Tone,110.9,110.9,023,NN,FM,5.00,,Palm Beach,,,,
 26,WFUBAY,444.175,+,5,Tone,100,100,023,NN,FM,5.00,,Panama City,,,,
 27,NKPTAY,443.1,+,5,Tone,94.8,94.8,023,NN,FM,5.00,,Perry,,,,
 28,CLLSAR,444.8,+,5,Tone,100,100,023,NN,FM,5.00,,Sarasota,,,,
