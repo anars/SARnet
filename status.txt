@@ -1,4 +1,4 @@
-Last Update : 2/3/2025, 12:00:02 PM
+Last Update : 2/4/2025, 12:00:02 AM
 
 Andytown Repeater (FB2): Site is operational.
 Apalachicola Repeater (FB2): Site is operational.
@@ -34,14 +34,14 @@ Pahokee Repeater (FB2): Site is pending FDOT approval.
 Palm Beach Control Station (FX1): Site is operational.
 Panama City Control Station (FX1): Site is operational.
 Pensacola Repeater (FB2): Site is pending FDOT approval. Frequency selected.
-Perry Repeater (FB2): Site is operational.
-Sarasota Repeater (FB2): Site is operational.
+Perry Repeater (FB2): Site is operational.﻿​
+Sarasota Repeater (FB2): Site is offline due to tower relocation
 Sebastian Repeater (FB2): Site is operational.
-Sebring Control Station (FX1): Sebring online.
+Sebring Control Station (FX1): Site is operational but FX1 link needs improvement.
 State Emergency Operations Center (SEOC) Repeater (FB2): Site is operational.
 Skyway Bridge Repeater (FB2): Site is offline due to microwave link issues.
 St. Augustine Repeater (FB2): Site is operational.
 Stuart Repeater (FB2): Site is operational.
 Tallahassee Control Station (FX1): Site is operational.
 Tampa Repeater (FB2): Site is operational.
-Yulee Repeater (FB2): Site is operational.
+Yulee Repeater (FB2): Site is offline due to high SWR
