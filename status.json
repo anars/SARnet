@@ -1,6 +1,7 @@
 [
  {
   "built": true,
+  "call_sign": "N0LO",
   "county": "Broward",
   "duplex": "+",
   "frequency": 442.825,
@@ -8,6 +9,7 @@
   "hundred_km_id": "NJ",
   "last_update": "2/4/2025, 12:00:02 AM",
   "latitude": 26.14502,
+  "live_feed": "https://www.broadcastify.com/listen/feed/35392",
   "longitude": -80.14278,
   "memory_label": "SNJBRO",
   "notes": "Site is operational.",
