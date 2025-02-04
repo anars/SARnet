@@ -11,7 +11,6 @@
   "last_update": "2/4/2025, 12:00:02 AM",
   "latitude": 26.145487533684246,
   "licensee": "Ralph Tullo",
-  "live_feed": "https://www.broadcastify.com/listen/feed/35392",
   "longitude": -80.46684086729714,
   "memory_label": "SNJBRO",
   "notes": "Site is operational.",
@@ -30,8 +29,8 @@
   "grid_zone": "16R",
   "hundred_km_id": "FT",
   "last_update": "2/4/2025, 12:00:02 AM",
-  "latitude": 29.9207,
   "longitude": -84.97328,
+  "latitude": 29.9207,
   "memory_label": "WFTFRA",
   "notes": "Site is operational.",
   "offset": 5,
@@ -39,7 +38,10 @@
   "site_name": "Apalachicola",
   "status": "On-Air",
   "tone_frequency": 94.8,
-  "type": "Repeater (FB2)"
+  "type": "Repeater (FB2)",
+  "call_sign": "AG4UU",
+  "emission_designator": "",
+  "licensee": "John R. Pierce"
  },
  {
   "built": true,
