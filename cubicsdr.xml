@@ -124,9 +124,9 @@
 			</modem>
 			<modem>
 				<bandwidth>25000</bandwidth>
-				<frequency>442850000</frequency>
+				<frequency>442050000</frequency>
 				<type>FM</type>
-				<user_label>%46%74%2e%20%4c%61%75%64%65%72%64%61%6c%65%20%28%53%4e%4a%42%52%57%29</user_label>
+				<user_label>%46%6c%6f%72%69%64%61%20%43%69%74%79%20%28%53%4e%4a%44%41%44%29</user_label>
 				<squelch_level>-31</squelch_level>
 				<squelch_enabled>1</squelch_enabled>
 				<gain>1</gain>
@@ -135,9 +135,9 @@
 			</modem>
 			<modem>
 				<bandwidth>25000</bandwidth>
-				<frequency>442050000</frequency>
+				<frequency>442850000</frequency>
 				<type>FM</type>
-				<user_label>%46%6c%6f%72%69%64%61%20%43%69%74%79%20%28%53%4e%4a%44%41%44%29</user_label>
+				<user_label>%46%74%2e%20%4c%61%75%64%65%72%64%61%6c%65%20%28%53%4e%4a%42%52%57%29</user_label>
 				<squelch_level>-31</squelch_level>
 				<squelch_enabled>1</squelch_enabled>
 				<gain>1</gain>
@@ -355,17 +355,6 @@
 			</modem>
 			<modem>
 				<bandwidth>25000</bandwidth>
-				<frequency>443500000</frequency>
-				<type>FM</type>
-				<user_label>%53%74%61%74%65%20%45%6d%65%72%67%65%6e%63%79%20%4f%70%65%72%61%74%69%6f%6e%73%20%43%65%6e%74%65%72%20%28%53%45%4f%43%29%20%28%57%47%55%4c%45%4f%29</user_label>
-				<squelch_level>-31</squelch_level>
-				<squelch_enabled>1</squelch_enabled>
-				<gain>1</gain>
-				<muted>0</muted>
-				<active>1</active>
-			</modem>
-			<modem>
-				<bandwidth>25000</bandwidth>
 				<frequency>442250000</frequency>
 				<type>FM</type>
 				<user_label>%53%6b%79%77%61%79%20%42%72%69%64%67%65%20%28%43%4c%4c%50%49%4e%29</user_label>
@@ -380,6 +369,17 @@
 				<frequency>442800000</frequency>
 				<type>FM</type>
 				<user_label>%53%74%2e%20%41%75%67%75%73%74%69%6e%65%20%28%4e%4d%50%53%54%4a%29</user_label>
+				<squelch_level>-31</squelch_level>
+				<squelch_enabled>1</squelch_enabled>
+				<gain>1</gain>
+				<muted>0</muted>
+				<active>1</active>
+			</modem>
+			<modem>
+				<bandwidth>25000</bandwidth>
+				<frequency>443500000</frequency>
+				<type>FM</type>
+				<user_label>%53%74%61%74%65%20%45%6d%65%72%67%65%6e%63%79%20%4f%70%65%72%61%74%69%6f%6e%73%20%43%65%6e%74%65%72%20%28%53%45%4f%43%29%20%28%57%47%55%4c%45%4f%29</user_label>
 				<squelch_level>-31</squelch_level>
 				<squelch_enabled>1</squelch_enabled>
 				<gain>1</gain>
