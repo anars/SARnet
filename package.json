@@ -26,9 +26,9 @@
   "author": "Kay Anar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anars/SARnet/issues"
+    "url": "https://github.com/SignalGap/sarnet/issues"
   },
-  "homepage": "https://anars.com/SARnet/",
+  "homepage": "https://sarnet.signalgap.com/",
   "eslintConfig": {
     "es6": true,
     "node": true

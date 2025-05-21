@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>http://anars.com/SARnet/map-icons/offair-normal.png</href>
+          <href>https://sarnet.signalgap.com/images/map-icons/offair-normal.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>http://anars.com/SARnet/map-icons/offair-highlight.png</href>
+          <href>https://sarnet.signalgap.com/images/map-icons/offair-highlight.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -39,7 +39,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>http://anars.com/SARnet/map-icons/onair-normal.png</href>
+          <href>https://sarnet.signalgap.com/images/map-icons/onair-normal.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -50,7 +50,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>http://anars.com/SARnet/map-icons/onair-highlight.png</href>
+          <href>https://sarnet.signalgap.com/images/map-icons/onair-highlight.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -71,7 +71,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>http://anars.com/SARnet/map-icons/planned-normal.png</href>
+          <href>https://sarnet.signalgap.com/images/map-icons/planned-normal.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -82,7 +82,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>http://anars.com/SARnet/map-icons/planned-highlight.png</href>
+          <href>https://sarnet.signalgap.com/images/map-icons/planned-highlight.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
