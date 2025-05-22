@@ -3,7 +3,7 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
-const status = require("./status.json");
+const status = require("./data/status.json");
 
 const URL = "http://www.sarnetfl.org/system-status.html";
 const lastUpdate = new Date().toLocaleString("en-US");
@@ -60,31 +60,31 @@ const lastUpdate = new Date().toLocaleString("en-US");
     }
     status.sort((a, b) => a.site_name.toLowerCase().localeCompare(b.site_name.toLowerCase()));
     let data = JSON.stringify(status, null, 1);
-    fs.writeFile("status.json", data, function (error) {
+    fs.writeFile("./data/status.json", data, function (error) {
       if (error) return console.error(error);
     });
-    fs.writeFile("status.js", `SARnetStatus = ${data};`, function (error) {
+    fs.writeFile("./data/status.js", `SARnetStatus = ${data};`, function (error) {
       if (error) return console.error(error);
     });
     data = "";
     status.forEach((item) => {
       data += `\n${item.site_name} ${item.type}: ${item.notes}`;
     });
-    fs.writeFile("status.txt", `Last Update : ${new Date().toLocaleString("en-US")}\n${data}`, function (error) {
+    fs.writeFile("./data/status.txt", `Last Update : ${new Date().toLocaleString("en-US")}\n${data}`, function (error) {
       if (error) return console.error(error);
     });
     data = "";
     status.forEach((item) => {
       data += `\n"${item.site_name}","${item.memory_label}",${item.frequency},${item.tone_frequency},"${item.built ? "Yes" : "No"}","${item.type}","${item.county}","${item.region}","${item.grid_zone}","${item.hundred_km_id}","${item.status}","${item.notes}","${new Date().toLocaleString("en-US")}"`;
     });
-    fs.writeFile("status.csv", `"Site Name","Memory Label","TX (MHz)","Tone (Hz)","Built","Type","County","Region","Grid Zone","100 Km ID","Status","Notes","Last Update"${data}`, function (error) {
+    fs.writeFile("./data/status.csv", `"Site Name","Memory Label","TX (MHz)","Tone (Hz)","Built","Type","County","Region","Grid Zone","100 Km ID","Status","Notes","Last Update"${data}`, function (error) {
       if (error) return console.error(error);
     });
     data = "";
     status.filter(item => item.built).forEach((item, index) => {
       data += `\n${index},${item.memory_label},${item.frequency},+,${item.offset},Tone,${item.tone_frequency},${item.tone_frequency},023,NN,FM,5.00,,${item.site_name},,,,`;
     });
-    fs.writeFile("chirp.csv", `Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE${data}`, function (error) {
+    fs.writeFile("./data/chirp.csv", `Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE${data}`, function (error) {
       if (error) return console.error(error);
     });
     // Export to CubicSDR bookmark file
@@ -93,7 +93,7 @@ const lastUpdate = new Date().toLocaleString("en-US");
       data += `\n\t\t\t<modem>\n\t\t\t\t<bandwidth>25000</bandwidth>\n\t\t\t\t<frequency>${item.frequency * 1000000}</frequency>\n\t\t\t\t<type>FM</type>\n\t\t\t\t<user_label>${(item.site_name + " (" + item.memory_label + ")").split("").map(char => "%" + char.charCodeAt(0).toString(16)).join("")}</user_label>\n\t\t\t\t<squelch_level>-31</squelch_level>\n\t\t\t\t<squelch_enabled>1</squelch_enabled>\n\t\t\t\t<gain>1</gain>\n\t\t\t\t<muted>0</muted>\n\t\t\t\t<active>1</active>\n\t\t\t</modem>`;
     });
     data += "\n\t\t</group>\n\t</modems>\n\t<recent_modems />\n</cubicsdr_bookmarks>";
-    fs.writeFile("cubicsdr.xml", data, function (error) {
+    fs.writeFile("./data/cubicsdr.xml", data, function (error) {
       if (error) return console.error(error);
     });
   } catch (error) {
