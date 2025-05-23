@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'VT323';
+  src: url(/webfonts/VT323-Regular.ttf) format('truetype');
+}
+
+body {
+  padding: 0;
+  padding-top: 60px;
+  margin: 0;
+}
+
+html,
+body,
+#map {
+  height: 100%;
+  width: 100%;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: 'VT323', monospace !important;
+}
+
+:root {
+  --bs-primary: #adbaa8;
+  --bs-body-font-size: 1.75rem;
+  --bs-border-radius: 0 !important;
+  --bs-border-radius-sm: 0 !important;
+  --bs-border-radius-lg: 0 !important;
+}
+
+.btn-primary,
+.bg-primary,
+.text-primary,
+.border-primary {
+  --bs-btn-bg: #adbaa8;
+  --bs-btn-border-color: #adbaa8;
+  --bs-btn-hover-bg: #97a897;
+  --bs-btn-hover-border-color: #97a897;
+  --bs-btn-active-bg: #8a9b8a;
+  --bs-btn-active-border-color: #8a9b8a;
+  --bs-bg-opacity: 1;
+  background-color: #adbaa8 !important;
+  border-color: #adbaa8 !important;
+  color: #fff !important;
+}
